@@ -72,7 +72,7 @@ T1-MN kan ruiken door R3 ingedrukt te houden.]]
         title = "Shooter",
         date = "10/08/2002",
         text =
-        [[Vandaag lieten we T1-MN een shooter spelen. Ons team was in eerste instantie niet onder indruk. T1-MN speelde goed, maar niet exceptioneel. Tot we doorhadden dat T1-MN al die tijd zijn ogen dicht had. Toen hij eenmaal zijn ogen open had, maakte hij alleen nog maar headshots.]]
+        [[Vandaag lieten we T1-MN een shooter spelen. Ons team was in eerste instantie niet onder de indruk. T1-MN speelde goed, maar niet exceptioneel. Tot we doorhadden dat T1-MN al die tijd zijn ogen dicht had. Toen hij eenmaal zijn ogen open had, maakte hij alleen nog maar headshots.]]
     },
     tetris = {
         title = "Tetris",
