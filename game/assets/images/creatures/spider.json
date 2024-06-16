@@ -1,0 +1,65 @@
+{ "frames": [
+   {
+    "filename": "spider 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 47, "h": 21 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 45, "h": 19 },
+    "sourceSize": { "w": 45, "h": 19 },
+    "duration": 75
+   },
+   {
+    "filename": "spider 1.ase",
+    "frame": { "x": 0, "y": 0, "w": 47, "h": 21 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 45, "h": 19 },
+    "sourceSize": { "w": 45, "h": 19 },
+    "duration": 50
+   },
+   {
+    "filename": "spider 2.ase",
+    "frame": { "x": 47, "y": 0, "w": 47, "h": 21 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 45, "h": 19 },
+    "sourceSize": { "w": 45, "h": 19 },
+    "duration": 50
+   },
+   {
+    "filename": "spider 3.ase",
+    "frame": { "x": 0, "y": 21, "w": 47, "h": 21 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 45, "h": 19 },
+    "sourceSize": { "w": 45, "h": 19 },
+    "duration": 50
+   },
+   {
+    "filename": "spider 4.ase",
+    "frame": { "x": 47, "y": 21, "w": 47, "h": 21 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 45, "h": 19 },
+    "sourceSize": { "w": 45, "h": 19 },
+    "duration": 50
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.3-beta6-x64",
+  "image": "spider.png",
+  "format": "RGBA8888",
+  "size": { "w": 94, "h": 42 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "idle", "from": 0, "to": 0, "direction": "forward", "color": "#000000ff" },
+   { "name": "walk", "from": 1, "to": 4, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

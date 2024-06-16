@@ -1,0 +1,42 @@
+name = "Lekker Spelen Origins" # EDIT
+
+love_files = [
+    "+*/*",
+    "-*/assets/images/*.ase",
+    "-*/assets/images/*.aseprite",
+]
+
+default_targets = ["win64", "macos"]
+build_directory = "../bin"
+icon_file = "icon.png"
+keep_game_directory = false
+
+[archive_files]
+"../info/LICENSE" = "LICENSE"
+"../info/readme.txt" = "readme.txt"
+
+[windows]
+[windows.archive_files]
+[windows.exe_metadata]
+CompanyName = "Sheepolution"
+LegalCopyright = "Copyright © 2024 Sheepolution"
+
+
+[macos]
+[macos.app_metadata]
+CFBundleIdentifier = "com.sheepolution.lsorigins" # EDIT
+NSHumanReadableCopyright = "Copyright © 2024 Sheepolution"
+CFBundleShortVersionString = "1.0.0"
+
+[linux]
+# These values are included in the .desktop file
+[linux.desktop_file_metadata]
+Comment="Game" # EDIT - Short description of the game
+Categories="Game;" # Default is "Game;" (semicolon is separator and terminator)
+
+# Love.js
+[hooks]
+postbuild = [
+    # Game name, memory, build directory, game width, game height
+	"python ../build/lovejs.py Game 40000000 {build_directory} 960 540"
+]

@@ -1,0 +1,130 @@
+{ "frames": [
+   {
+    "filename": "barrel 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 144, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 142, "h": 123 },
+    "sourceSize": { "w": 142, "h": 123 },
+    "duration": 100
+   },
+   {
+    "filename": "barrel 1.ase",
+    "frame": { "x": 144, "y": 0, "w": 144, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 142, "h": 123 },
+    "sourceSize": { "w": 142, "h": 123 },
+    "duration": 100
+   },
+   {
+    "filename": "barrel 2.ase",
+    "frame": { "x": 288, "y": 0, "w": 144, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 142, "h": 123 },
+    "sourceSize": { "w": 142, "h": 123 },
+    "duration": 100
+   },
+   {
+    "filename": "barrel 3.ase",
+    "frame": { "x": 432, "y": 0, "w": 144, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 142, "h": 123 },
+    "sourceSize": { "w": 142, "h": 123 },
+    "duration": 100
+   },
+   {
+    "filename": "barrel 4.ase",
+    "frame": { "x": 0, "y": 125, "w": 144, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 142, "h": 123 },
+    "sourceSize": { "w": 142, "h": 123 },
+    "duration": 100
+   },
+   {
+    "filename": "barrel 5.ase",
+    "frame": { "x": 144, "y": 125, "w": 144, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 142, "h": 123 },
+    "sourceSize": { "w": 142, "h": 123 },
+    "duration": 100
+   },
+   {
+    "filename": "barrel 6.ase",
+    "frame": { "x": 288, "y": 125, "w": 144, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 142, "h": 123 },
+    "sourceSize": { "w": 142, "h": 123 },
+    "duration": 100
+   },
+   {
+    "filename": "barrel 7.ase",
+    "frame": { "x": 432, "y": 125, "w": 144, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 142, "h": 123 },
+    "sourceSize": { "w": 142, "h": 123 },
+    "duration": 100
+   },
+   {
+    "filename": "barrel 8.ase",
+    "frame": { "x": 0, "y": 250, "w": 144, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 142, "h": 123 },
+    "sourceSize": { "w": 142, "h": 123 },
+    "duration": 50
+   },
+   {
+    "filename": "barrel 9.ase",
+    "frame": { "x": 144, "y": 250, "w": 144, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 142, "h": 123 },
+    "sourceSize": { "w": 142, "h": 123 },
+    "duration": 50
+   },
+   {
+    "filename": "barrel 10.ase",
+    "frame": { "x": 288, "y": 250, "w": 144, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 142, "h": 123 },
+    "sourceSize": { "w": 142, "h": 123 },
+    "duration": 50
+   },
+   {
+    "filename": "barrel 11.ase",
+    "frame": { "x": 432, "y": 250, "w": 144, "h": 125 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 142, "h": 123 },
+    "sourceSize": { "w": 142, "h": 123 },
+    "duration": 50
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.6-x64",
+  "image": "barrel.png",
+  "format": "RGBA8888",
+  "size": { "w": 576, "h": 375 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "spin", "from": 0, "to": 1, "direction": "forward", "color": "#000000ff" },
+   { "name": "turn", "from": 2, "to": 6, "direction": "forward", "color": "#000000ff", "data": "after=side" },
+   { "name": "side", "from": 7, "to": 7, "direction": "forward", "color": "#000000ff" },
+   { "name": "explode", "from": 8, "to": 11, "direction": "forward", "color": "#000000ff", "data": "once=true" }
+  ],
+  "layers": [
+   { "name": "Layer", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

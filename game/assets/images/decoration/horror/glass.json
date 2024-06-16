@@ -1,0 +1,38 @@
+{ "frames": [
+   {
+    "filename": "glass 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 526, "h": 233 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 524, "h": 231 },
+    "sourceSize": { "w": 524, "h": 231 },
+    "duration": 100
+   },
+   {
+    "filename": "glass 1.ase",
+    "frame": { "x": 526, "y": 0, "w": 526, "h": 233 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 524, "h": 231 },
+    "sourceSize": { "w": 524, "h": 231 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.2-x64",
+  "image": "glass.png",
+  "format": "RGBA8888",
+  "size": { "w": 1052, "h": 233 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "idle", "from": 0, "to": 0, "direction": "forward", "color": "#000000ff" },
+   { "name": "break", "from": 1, "to": 1, "direction": "forward", "color": "#000000ff", "data": "once=true" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

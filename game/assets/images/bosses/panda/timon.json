@@ -1,0 +1,158 @@
+{ "frames": [
+   {
+    "filename": "timon 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 89, "h": 121 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 87, "h": 119 },
+    "sourceSize": { "w": 87, "h": 119 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 1.ase",
+    "frame": { "x": 89, "y": 0, "w": 89, "h": 121 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 87, "h": 119 },
+    "sourceSize": { "w": 87, "h": 119 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 2.ase",
+    "frame": { "x": 178, "y": 0, "w": 89, "h": 121 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 87, "h": 119 },
+    "sourceSize": { "w": 87, "h": 119 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 3.ase",
+    "frame": { "x": 267, "y": 0, "w": 89, "h": 121 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 87, "h": 119 },
+    "sourceSize": { "w": 87, "h": 119 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 4.ase",
+    "frame": { "x": 0, "y": 121, "w": 89, "h": 121 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 87, "h": 119 },
+    "sourceSize": { "w": 87, "h": 119 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 5.ase",
+    "frame": { "x": 89, "y": 121, "w": 89, "h": 121 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 87, "h": 119 },
+    "sourceSize": { "w": 87, "h": 119 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 6.ase",
+    "frame": { "x": 178, "y": 121, "w": 89, "h": 121 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 87, "h": 119 },
+    "sourceSize": { "w": 87, "h": 119 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 7.ase",
+    "frame": { "x": 267, "y": 121, "w": 89, "h": 121 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 87, "h": 119 },
+    "sourceSize": { "w": 87, "h": 119 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 8.ase",
+    "frame": { "x": 0, "y": 242, "w": 89, "h": 121 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 87, "h": 119 },
+    "sourceSize": { "w": 87, "h": 119 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 9.ase",
+    "frame": { "x": 89, "y": 242, "w": 89, "h": 121 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 87, "h": 119 },
+    "sourceSize": { "w": 87, "h": 119 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 10.ase",
+    "frame": { "x": 178, "y": 242, "w": 89, "h": 121 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 87, "h": 119 },
+    "sourceSize": { "w": 87, "h": 119 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 11.ase",
+    "frame": { "x": 267, "y": 242, "w": 89, "h": 121 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 87, "h": 119 },
+    "sourceSize": { "w": 87, "h": 119 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 12.ase",
+    "frame": { "x": 0, "y": 363, "w": 89, "h": 121 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 87, "h": 119 },
+    "sourceSize": { "w": 87, "h": 119 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 13.ase",
+    "frame": { "x": 89, "y": 363, "w": 89, "h": 121 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 87, "h": 119 },
+    "sourceSize": { "w": 87, "h": 119 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.3-beta6-x64",
+  "image": "timon.png",
+  "format": "RGBA8888",
+  "size": { "w": 356, "h": 484 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "neutral", "from": 0, "to": 0, "direction": "forward", "color": "#000000ff" },
+   { "name": "look", "from": 1, "to": 1, "direction": "forward", "color": "#000000ff" },
+   { "name": "scared", "from": 2, "to": 2, "direction": "forward", "color": "#000000ff" },
+   { "name": "left", "from": 3, "to": 3, "direction": "forward", "color": "#000000ff" },
+   { "name": "right", "from": 4, "to": 4, "direction": "forward", "color": "#000000ff" },
+   { "name": "down", "from": 5, "to": 5, "direction": "forward", "color": "#000000ff" },
+   { "name": "up", "from": 6, "to": 6, "direction": "forward", "color": "#000000ff" },
+   { "name": "neutral_dance", "from": 7, "to": 7, "direction": "forward", "color": "#000000ff" },
+   { "name": "look_dance", "from": 8, "to": 8, "direction": "forward", "color": "#000000ff" },
+   { "name": "scared_dance", "from": 9, "to": 9, "direction": "forward", "color": "#000000ff" },
+   { "name": "left_dance", "from": 10, "to": 10, "direction": "forward", "color": "#000000ff" },
+   { "name": "right_dance", "from": 11, "to": 11, "direction": "forward", "color": "#000000ff" },
+   { "name": "down_dance", "from": 12, "to": 12, "direction": "forward", "color": "#000000ff" },
+   { "name": "up_dance", "from": 13, "to": 13, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

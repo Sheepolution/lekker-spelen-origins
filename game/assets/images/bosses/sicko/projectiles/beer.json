@@ -1,0 +1,27 @@
+{ "frames": [
+   {
+    "filename": "beer.ase",
+    "frame": { "x": 0, "y": 0, "w": 4, "h": 11 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 2, "h": 9 },
+    "sourceSize": { "w": 2, "h": 9 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.3-beta6-x64",
+  "image": "beer.png",
+  "format": "RGBA8888",
+  "size": { "w": 4, "h": 11 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

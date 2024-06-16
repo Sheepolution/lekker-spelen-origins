@@ -1,0 +1,38 @@
+{ "frames": [
+   {
+    "filename": "star_big 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 60, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 58, "h": 55 },
+    "sourceSize": { "w": 58, "h": 55 },
+    "duration": 100
+   },
+   {
+    "filename": "star_big 1.ase",
+    "frame": { "x": 60, "y": 0, "w": 60, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 58, "h": 55 },
+    "sourceSize": { "w": 58, "h": 55 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.6-x64",
+  "image": "star_big.png",
+  "format": "RGBA8888",
+  "size": { "w": 120, "h": 57 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "peter", "from": 0, "to": 0, "direction": "forward", "color": "#000000ff" },
+   { "name": "timon", "from": 1, "to": 1, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

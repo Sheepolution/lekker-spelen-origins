@@ -1,0 +1,74 @@
+{ "frames": [
+   {
+    "filename": "lekkerchat 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 58, "h": 61 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 56, "h": 59 },
+    "sourceSize": { "w": 56, "h": 59 },
+    "duration": 100
+   },
+   {
+    "filename": "lekkerchat 1.ase",
+    "frame": { "x": 58, "y": 0, "w": 58, "h": 61 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 56, "h": 59 },
+    "sourceSize": { "w": 56, "h": 59 },
+    "duration": 100
+   },
+   {
+    "filename": "lekkerchat 2.ase",
+    "frame": { "x": 116, "y": 0, "w": 58, "h": 61 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 56, "h": 59 },
+    "sourceSize": { "w": 56, "h": 59 },
+    "duration": 50
+   },
+   {
+    "filename": "lekkerchat 3.ase",
+    "frame": { "x": 0, "y": 61, "w": 58, "h": 61 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 56, "h": 59 },
+    "sourceSize": { "w": 56, "h": 59 },
+    "duration": 100
+   },
+   {
+    "filename": "lekkerchat 4.ase",
+    "frame": { "x": 58, "y": 61, "w": 58, "h": 61 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 56, "h": 59 },
+    "sourceSize": { "w": 56, "h": 59 },
+    "duration": 100
+   },
+   {
+    "filename": "lekkerchat 5.ase",
+    "frame": { "x": 116, "y": 61, "w": 58, "h": 61 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 56, "h": 59 },
+    "sourceSize": { "w": 56, "h": 59 },
+    "duration": 50
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.3-beta6-x64",
+  "image": "lekkerchat.png",
+  "format": "RGBA8888",
+  "size": { "w": 174, "h": 122 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "flying", "from": 0, "to": 5, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 2", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

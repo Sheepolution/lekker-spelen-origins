@@ -1,0 +1,235 @@
+{ "frames": [
+   {
+    "filename": "euro 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 32, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 30, "h": 30 },
+    "sourceSize": { "w": 30, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "euro 1.ase",
+    "frame": { "x": 32, "y": 0, "w": 32, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 30, "h": 30 },
+    "sourceSize": { "w": 30, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "euro 2.ase",
+    "frame": { "x": 64, "y": 0, "w": 32, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 30, "h": 30 },
+    "sourceSize": { "w": 30, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "euro 3.ase",
+    "frame": { "x": 96, "y": 0, "w": 32, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 30, "h": 30 },
+    "sourceSize": { "w": 30, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "euro 4.ase",
+    "frame": { "x": 128, "y": 0, "w": 32, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 30, "h": 30 },
+    "sourceSize": { "w": 30, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "euro 5.ase",
+    "frame": { "x": 0, "y": 32, "w": 32, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 30, "h": 30 },
+    "sourceSize": { "w": 30, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "euro 6.ase",
+    "frame": { "x": 32, "y": 32, "w": 32, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 30, "h": 30 },
+    "sourceSize": { "w": 30, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "euro 7.ase",
+    "frame": { "x": 64, "y": 32, "w": 32, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 30, "h": 30 },
+    "sourceSize": { "w": 30, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "euro 8.ase",
+    "frame": { "x": 96, "y": 32, "w": 32, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 30, "h": 30 },
+    "sourceSize": { "w": 30, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "euro 9.ase",
+    "frame": { "x": 128, "y": 32, "w": 32, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 30, "h": 30 },
+    "sourceSize": { "w": 30, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "euro 10.ase",
+    "frame": { "x": 0, "y": 64, "w": 32, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 30, "h": 30 },
+    "sourceSize": { "w": 30, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "euro 11.ase",
+    "frame": { "x": 32, "y": 64, "w": 32, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 30, "h": 30 },
+    "sourceSize": { "w": 30, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "euro 12.ase",
+    "frame": { "x": 64, "y": 64, "w": 32, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 30, "h": 30 },
+    "sourceSize": { "w": 30, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "euro 13.ase",
+    "frame": { "x": 96, "y": 64, "w": 32, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 30, "h": 30 },
+    "sourceSize": { "w": 30, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "euro 14.ase",
+    "frame": { "x": 128, "y": 64, "w": 32, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 30, "h": 30 },
+    "sourceSize": { "w": 30, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "euro 15.ase",
+    "frame": { "x": 0, "y": 96, "w": 32, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 30, "h": 30 },
+    "sourceSize": { "w": 30, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "euro 16.ase",
+    "frame": { "x": 32, "y": 96, "w": 32, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 30, "h": 30 },
+    "sourceSize": { "w": 30, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "euro 17.ase",
+    "frame": { "x": 64, "y": 96, "w": 32, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 30, "h": 30 },
+    "sourceSize": { "w": 30, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "euro 18.ase",
+    "frame": { "x": 96, "y": 96, "w": 32, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 30, "h": 30 },
+    "sourceSize": { "w": 30, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "euro 19.ase",
+    "frame": { "x": 128, "y": 96, "w": 32, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 30, "h": 30 },
+    "sourceSize": { "w": 30, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "euro 20.ase",
+    "frame": { "x": 0, "y": 128, "w": 32, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 30, "h": 30 },
+    "sourceSize": { "w": 30, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "euro 21.ase",
+    "frame": { "x": 32, "y": 128, "w": 32, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 30, "h": 30 },
+    "sourceSize": { "w": 30, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "euro 22.ase",
+    "frame": { "x": 64, "y": 128, "w": 32, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 30, "h": 30 },
+    "sourceSize": { "w": 30, "h": 30 },
+    "duration": 100
+   },
+   {
+    "filename": "euro 23.ase",
+    "frame": { "x": 96, "y": 128, "w": 32, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 30, "h": 30 },
+    "sourceSize": { "w": 30, "h": 30 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.3-beta6-x64",
+  "image": "euro.png",
+  "format": "RGBA8888",
+  "size": { "w": 160, "h": 160 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "idle", "from": 0, "to": 23, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

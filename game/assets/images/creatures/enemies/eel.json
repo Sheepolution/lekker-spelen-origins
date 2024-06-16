@@ -1,0 +1,75 @@
+{ "frames": [
+   {
+    "filename": "eel 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 111, "h": 106 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 109, "h": 104 },
+    "sourceSize": { "w": 109, "h": 104 },
+    "duration": 100
+   },
+   {
+    "filename": "eel 1.ase",
+    "frame": { "x": 111, "y": 0, "w": 111, "h": 106 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 109, "h": 104 },
+    "sourceSize": { "w": 109, "h": 104 },
+    "duration": 100
+   },
+   {
+    "filename": "eel 2.ase",
+    "frame": { "x": 0, "y": 106, "w": 111, "h": 106 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 109, "h": 104 },
+    "sourceSize": { "w": 109, "h": 104 },
+    "duration": 30
+   },
+   {
+    "filename": "eel 3.ase",
+    "frame": { "x": 111, "y": 106, "w": 111, "h": 106 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 109, "h": 104 },
+    "sourceSize": { "w": 109, "h": 104 },
+    "duration": 400
+   },
+   {
+    "filename": "eel 4.ase",
+    "frame": { "x": 0, "y": 106, "w": 111, "h": 106 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 109, "h": 104 },
+    "sourceSize": { "w": 109, "h": 104 },
+    "duration": 30
+   },
+   {
+    "filename": "eel 5.ase",
+    "frame": { "x": 111, "y": 0, "w": 111, "h": 106 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 109, "h": 104 },
+    "sourceSize": { "w": 109, "h": 104 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.3-beta6-x64",
+  "image": "eel.png",
+  "format": "RGBA8888",
+  "size": { "w": 222, "h": 212 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "idle", "from": 0, "to": 0, "direction": "forward", "color": "#000000ff" },
+   { "name": "open", "from": 1, "to": 3, "direction": "forward", "color": "#000000ff", "data": "once=true" },
+   { "name": "close", "from": 4, "to": 5, "direction": "forward", "color": "#000000ff", "data": "after=idle" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

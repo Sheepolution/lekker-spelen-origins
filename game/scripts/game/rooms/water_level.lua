@@ -1,0 +1,147 @@
+local WaterBackground = require "decoration.water_background"
+local Scene = require "base.scene"
+
+local WaterLevel = Scene:extend("WaterLevel")
+
+function WaterLevel:new(x, y, mapLevel)
+    WaterLevel.super.new(self)
+    self:setBackgroundAlpha(0)
+    self.mapLevel = mapLevel
+    self.x = x
+    self.y = y
+end
+
+function WaterLevel:done()
+    self.background:add("water/hoornblad1", 263, 439)
+    self.background:add("water/hoornblad1", 737, 791)
+    self.background:add("water/hoornblad1", 400, 1687, true)
+    self.background:add("water/hoornblad1", 1309, 1687)
+    self.background:add("water/hoornblad1", 1698, 1687)
+    self.background:add("water/hoornblad1", 1872, 1303)
+    self.background:add("water/hoornblad1", 2190, 1879, true)
+    self.background:add("water/hoornblad1", 2584, 1303)
+    self.background:add("water/hoornblad1", 3017, 1495)
+    self.background:add("water/hoornblad1", 3864, 1431, true)
+    self.background:add("water/hoornblad1", 4615, 1623)
+    self.background:add("water/hoornblad1", 5021, 1431, true)
+    self.background:add("water/hoornblad1", 5772, 951)
+    self.background:add("water/hoornblad1", 5458, 1527, true)
+    self.background:add("water/hoornblad1", 6371, 1687)
+    self.background:add("water/hoornblad1", 7324, 1687)
+    self.background:add("water/hoornblad1", 8179, 1559, true)
+    self.background:add("water/hoornblad1", 6986, 1079)
+    self.background:add("water/hoornblad1", 7236, 887)
+    self.background:add("water/hoornblad1", 8018, 407, true)
+    self.background:add("water/hoornblad1", 8839, 407)
+    self.background:add("water/hoornblad1", 8469, 1559, true)
+    self.background:add("water/hoornblad1", 9258, 1559)
+    --
+    self.background:add("water/hoornblad2", 459, 419)
+    self.background:add("water/hoornblad2", 602, 1667)
+    self.background:add("water/hoornblad2", 1645, 1667)
+    self.background:add("water/hoornblad2", 1936, 739)
+    self.background:add("water/hoornblad2", 2009, 1859)
+    self.background:add("water/hoornblad2", 3425, 1475)
+    self.background:add("water/hoornblad2", 4587, 1251)
+    self.background:add("water/hoornblad2", 5513, 1187)
+    self.background:add("water/hoornblad2", 6096, 1507, true)
+    self.background:add("water/hoornblad2", 6938, 1667)
+    self.background:add("water/hoornblad2", 7441, 1059)
+    self.background:add("water/hoornblad2", 7522, 323)
+    self.background:add("water/hoornblad2", 8503, 451, true)
+    self.background:add("water/hoornblad2", 8846, 1539)
+    self.background:add("water/hoornblad2", 9552, 1539, true)
+    self.background:add("water/hoornblad2", 9507, 387)
+    --
+    self.background:add("water/hoornblad3", 854, 777)
+    self.background:add("water/hoornblad3", 1240, 1673)
+    self.background:add("water/hoornblad3", 2296, 1609)
+    self.background:add("water/hoornblad3", 2874, 1481, true)
+    self.background:add("water/hoornblad3", 4179, 1417)
+    self.background:add("water/hoornblad3", 5973, 937)
+    self.background:add("water/hoornblad3", 6505, 1673)
+    self.background:add("water/hoornblad3", 8003, 1545, true)
+    self.background:add("water/hoornblad3", 8214, 457)
+    self.background:add("water/hoornblad3", 8523, 1545)
+    --
+    self.background:add("water/zeeegel1", 404, 454)
+    self.background:add("water/zeeegel1", 684, 806)
+    self.background:add("water/zeeegel1", 1041, 1350)
+    self.background:add("water/zeeegel1", 1159, 1702)
+    self.background:add("water/zeeegel1", 2069, 774, true)
+    self.background:add("water/zeeegel1", 2262, 1638)
+    self.background:add("water/zeeegel1", 3162, 1158)
+    self.background:add("water/zeeegel1", 4676, 1286)
+    self.background:add("water/zeeegel1", 4473, 1638, true)
+    self.background:add("water/zeeegel1", 5091, 710)
+    self.background:add("water/zeeegel1", 5598, 1222)
+    self.background:add("water/zeeegel1", 6650, 1702, true)
+    self.background:add("water/zeeegel1", 7694, 1574)
+    self.background:add("water/zeeegel1", 7592, 870)
+    self.background:add("water/zeeegel1", 6942, 774)
+    self.background:add("water/zeeegel1", 7789, 422)
+    self.background:add("water/zeeegel1", 9840, 2110, true)
+    self.background:add("water/zeeegel1", 8621, 1574)
+    self.background:add("water/zeeegel1", 9069, 1702)
+    self.background:add("water/zeeegel1", 9479, 422)
+    --
+    self.background:add("water/zeeegel2", 485, 809)
+    self.background:add("water/zeeegel2", 647, 1705)
+    self.background:add("water/zeeegel2", 2403, 1033)
+    self.background:add("water/zeeegel2", 2167, 1897)
+    self.background:add("water/zeeegel2", 2789, 1321, true)
+    self.background:add("water/zeeegel2", 3592, 1513)
+    self.background:add("water/zeeegel2", 4650, 1641)
+    self.background:add("water/zeeegel2", 5799, 713, true)
+    self.background:add("water/zeeegel2", 5928, 1545)
+    self.background:add("water/zeeegel2", 6502, 713)
+    self.background:add("water/zeeegel2", 7112, 1097, true)
+    self.background:add("water/zeeegel2", 7813, 1097)
+    self.background:add("water/zeeegel2", 7634, 361)
+    self.background:add("water/zeeegel2", 8266, 489)
+    self.background:add("water/zeeegel2", 9155, 425)
+    self.background:add("water/zeeegel2", 9418, 1577)
+    --
+    self.background:add("water/wier", 644, 387)
+    self.background:add("water/wier", 907, 1635)
+    self.background:add("water/wier", 2427, 1251)
+    self.background:add("water/wier", 3348, 1091, true)
+    self.background:add("water/wier", 4929, 1379)
+    self.background:add("water/wier", 5832, 899)
+    self.background:add("water/wier", 7143, 1635, true)
+    self.background:add("water/wier", 7157, 1027)
+    self.background:add("water/wier", 8367, 419, true)
+    self.background:add("water/wier", 8726, 1507)
+    self.background:add("water/wier", 9475, 1507, true)
+    self.background:add("water/wier", 9362, 355)
+    --
+    self.background:add("water/stenen", 560, 793)
+    self.background:add("water/stenen", 1521, 1689)
+    self.background:add("water/stenen", 2291, 1017)
+    self.background:add("water/stenen", 3634, 1497)
+    self.background:add("water/stenen", 5643, 953)
+    self.background:add("water/stenen", 6801, 1689)
+    self.background:add("water/stenen", 7928, 1561)
+    self.background:add("water/stenen", 7051, 889)
+    self.background:add("water/stenen", 8649, 345)
+    self.background:add("water/stenen", 9168, 1561)
+    --
+    self.background:add("water/robert", 6431, 1678)
+
+    self.mapLevel:add(WaterBackground(self.mapLevel.x, self.mapLevel.y))
+
+    if self.scene.inWater then return end
+
+    self.scene:goIntoWater()
+
+    if #self.scene.players == 0 then
+        local peter = self.scene:findEntityWithTag("Peter")
+        local timon = self.scene:findEntityWithTag("Timon")
+        if peter then
+            peter:goIntoWater()
+            timon:goIntoWater()
+        end
+    end
+end
+
+return WaterLevel

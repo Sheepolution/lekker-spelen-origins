@@ -1,0 +1,73 @@
+{ "frames": [
+   {
+    "filename": "gier_character 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 85, "h": 64 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 62 },
+    "sourceSize": { "w": 83, "h": 62 },
+    "duration": 1500
+   },
+   {
+    "filename": "gier_character 1.ase",
+    "frame": { "x": 85, "y": 0, "w": 85, "h": 64 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 62 },
+    "sourceSize": { "w": 83, "h": 62 },
+    "duration": 100
+   },
+   {
+    "filename": "gier_character 2.ase",
+    "frame": { "x": 170, "y": 0, "w": 85, "h": 64 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 62 },
+    "sourceSize": { "w": 83, "h": 62 },
+    "duration": 100
+   },
+   {
+    "filename": "gier_character 3.ase",
+    "frame": { "x": 0, "y": 64, "w": 85, "h": 64 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 62 },
+    "sourceSize": { "w": 83, "h": 62 },
+    "duration": 100
+   },
+   {
+    "filename": "gier_character 4.ase",
+    "frame": { "x": 85, "y": 64, "w": 85, "h": 64 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 62 },
+    "sourceSize": { "w": 83, "h": 62 },
+    "duration": 100
+   },
+   {
+    "filename": "gier_character 5.ase",
+    "frame": { "x": 170, "y": 64, "w": 85, "h": 64 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 62 },
+    "sourceSize": { "w": 83, "h": 62 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.6-x64",
+  "image": "gier_character.png",
+  "format": "RGBA8888",
+  "size": { "w": 255, "h": 128 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "shake", "from": 0, "to": 5, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

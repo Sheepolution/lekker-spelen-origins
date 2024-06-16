@@ -1,0 +1,85 @@
+{ "frames": [
+   {
+    "filename": "spring 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 66, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 89 },
+    "sourceSize": { "w": 64, "h": 89 },
+    "duration": 100
+   },
+   {
+    "filename": "spring 1.ase",
+    "frame": { "x": 66, "y": 0, "w": 66, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 89 },
+    "sourceSize": { "w": 64, "h": 89 },
+    "duration": 100
+   },
+   {
+    "filename": "spring 2.ase",
+    "frame": { "x": 132, "y": 0, "w": 66, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 89 },
+    "sourceSize": { "w": 64, "h": 89 },
+    "duration": 50
+   },
+   {
+    "filename": "spring 3.ase",
+    "frame": { "x": 0, "y": 91, "w": 66, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 89 },
+    "sourceSize": { "w": 64, "h": 89 },
+    "duration": 100
+   },
+   {
+    "filename": "spring 4.ase",
+    "frame": { "x": 66, "y": 91, "w": 66, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 89 },
+    "sourceSize": { "w": 64, "h": 89 },
+    "duration": 100
+   },
+   {
+    "filename": "spring 5.ase",
+    "frame": { "x": 132, "y": 91, "w": 66, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 89 },
+    "sourceSize": { "w": 64, "h": 89 },
+    "duration": 50
+   },
+   {
+    "filename": "spring 6.ase",
+    "frame": { "x": 0, "y": 182, "w": 66, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 64, "h": 89 },
+    "sourceSize": { "w": 64, "h": 89 },
+    "duration": 50
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.3-beta6-x64",
+  "image": "spring.png",
+  "format": "RGBA8888",
+  "size": { "w": 198, "h": 273 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "idle_off", "from": 0, "to": 0, "direction": "forward", "color": "#000000ff" },
+   { "name": "idle_on", "from": 1, "to": 1, "direction": "forward", "color": "#000000ff" },
+   { "name": "trigger", "from": 2, "to": 6, "direction": "forward", "color": "#000000ff", "data": "after=idle_on" }
+  ],
+  "layers": [
+   { "name": "Layer 2", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

@@ -1,0 +1,28 @@
+{ "frames": [
+   {
+    "filename": "cat.ase",
+    "frame": { "x": 0, "y": 0, "w": 98, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 96 },
+    "sourceSize": { "w": 96, "h": 96 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.3-beta6-x64",
+  "image": "cat.png",
+  "format": "RGBA8888",
+  "size": { "w": 98, "h": 98 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "default", "from": 0, "to": 0, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "Layer 3", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

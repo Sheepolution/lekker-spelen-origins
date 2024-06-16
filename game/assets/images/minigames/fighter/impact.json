@@ -1,0 +1,56 @@
+{ "frames": [
+   {
+    "filename": "impact 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 55, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 53, "h": 52 },
+    "sourceSize": { "w": 53, "h": 52 },
+    "duration": 50
+   },
+   {
+    "filename": "impact 1.ase",
+    "frame": { "x": 55, "y": 0, "w": 55, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 53, "h": 52 },
+    "sourceSize": { "w": 53, "h": 52 },
+    "duration": 50
+   },
+   {
+    "filename": "impact 2.ase",
+    "frame": { "x": 0, "y": 0, "w": 55, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 53, "h": 52 },
+    "sourceSize": { "w": 53, "h": 52 },
+    "duration": 50
+   },
+   {
+    "filename": "impact 3.ase",
+    "frame": { "x": 0, "y": 54, "w": 55, "h": 54 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 53, "h": 52 },
+    "sourceSize": { "w": 53, "h": 52 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.6-x64",
+  "image": "impact.png",
+  "format": "RGBA8888",
+  "size": { "w": 110, "h": 108 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "peter", "from": 0, "to": 1, "direction": "forward", "color": "#000000ff", "data": "once=true" },
+   { "name": "timon", "from": 2, "to": 3, "direction": "forward", "color": "#000000ff", "data": "once=true" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

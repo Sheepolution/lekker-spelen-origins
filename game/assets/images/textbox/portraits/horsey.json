@@ -1,0 +1,68 @@
+{ "frames": [
+   {
+    "filename": "horsey 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "horsey 1.ase",
+    "frame": { "x": 112, "y": 0, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "horsey 2.ase",
+    "frame": { "x": 224, "y": 0, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "horsey 3.ase",
+    "frame": { "x": 0, "y": 98, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "horsey 4.ase",
+    "frame": { "x": 112, "y": 98, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.2-x64",
+  "image": "horsey.png",
+  "format": "RGBA8888",
+  "size": { "w": 336, "h": 196 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "default", "from": 0, "to": 0, "direction": "forward", "color": "#000000ff" },
+   { "name": "nervous", "from": 1, "to": 1, "direction": "forward", "color": "#000000ff" },
+   { "name": "crazy", "from": 2, "to": 2, "direction": "forward", "color": "#000000ff" },
+   { "name": "dead", "from": 3, "to": 3, "direction": "forward", "color": "#000000ff" },
+   { "name": "peace", "from": 4, "to": 4, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

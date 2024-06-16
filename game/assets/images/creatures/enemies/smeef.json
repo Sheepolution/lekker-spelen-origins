@@ -1,0 +1,76 @@
+{ "frames": [
+   {
+    "filename": "smeef 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 79, "h": 94 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 57, "h": 72 },
+    "sourceSize": { "w": 57, "h": 72 },
+    "duration": 100
+   },
+   {
+    "filename": "smeef 1.ase",
+    "frame": { "x": 79, "y": 0, "w": 79, "h": 94 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 57, "h": 72 },
+    "sourceSize": { "w": 57, "h": 72 },
+    "duration": 100
+   },
+   {
+    "filename": "smeef 2.ase",
+    "frame": { "x": 158, "y": 0, "w": 79, "h": 94 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 57, "h": 72 },
+    "sourceSize": { "w": 57, "h": 72 },
+    "duration": 100
+   },
+   {
+    "filename": "smeef 3.ase",
+    "frame": { "x": 237, "y": 0, "w": 79, "h": 94 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 57, "h": 72 },
+    "sourceSize": { "w": 57, "h": 72 },
+    "duration": 100
+   },
+   {
+    "filename": "smeef 4.ase",
+    "frame": { "x": 316, "y": 0, "w": 79, "h": 94 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 57, "h": 72 },
+    "sourceSize": { "w": 57, "h": 72 },
+    "duration": 100
+   },
+   {
+    "filename": "smeef 5.ase",
+    "frame": { "x": 395, "y": 0, "w": 79, "h": 94 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 57, "h": 72 },
+    "sourceSize": { "w": 57, "h": 72 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.2-x64",
+  "image": "smeef.png",
+  "format": "RGBA8888",
+  "size": { "w": 474, "h": 94 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "idle", "from": 0, "to": 0, "direction": "forward", "color": "#000000ff" },
+   { "name": "to_ball", "from": 1, "to": 3, "direction": "forward", "color": "#000000ff", "data": "after=ball" },
+   { "name": "ball", "from": 4, "to": 4, "direction": "forward", "color": "#000000ff" },
+   { "name": "dead", "from": 5, "to": 5, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

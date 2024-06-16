@@ -1,0 +1,128 @@
+{ "frames": [
+   {
+    "filename": "slime 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 34, "h": 9 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 7 },
+    "sourceSize": { "w": 32, "h": 7 },
+    "duration": 1800
+   },
+   {
+    "filename": "slime 1.ase",
+    "frame": { "x": 34, "y": 0, "w": 34, "h": 9 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 7 },
+    "sourceSize": { "w": 32, "h": 7 },
+    "duration": 100
+   },
+   {
+    "filename": "slime 2.ase",
+    "frame": { "x": 68, "y": 0, "w": 34, "h": 9 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 7 },
+    "sourceSize": { "w": 32, "h": 7 },
+    "duration": 100
+   },
+   {
+    "filename": "slime 3.ase",
+    "frame": { "x": 102, "y": 0, "w": 34, "h": 9 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 7 },
+    "sourceSize": { "w": 32, "h": 7 },
+    "duration": 100
+   },
+   {
+    "filename": "slime 4.ase",
+    "frame": { "x": 0, "y": 9, "w": 34, "h": 9 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 7 },
+    "sourceSize": { "w": 32, "h": 7 },
+    "duration": 100
+   },
+   {
+    "filename": "slime 5.ase",
+    "frame": { "x": 34, "y": 9, "w": 34, "h": 9 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 7 },
+    "sourceSize": { "w": 32, "h": 7 },
+    "duration": 100
+   },
+   {
+    "filename": "slime 6.ase",
+    "frame": { "x": 0, "y": 0, "w": 34, "h": 9 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 7 },
+    "sourceSize": { "w": 32, "h": 7 },
+    "duration": 1400
+   },
+   {
+    "filename": "slime 7.ase",
+    "frame": { "x": 68, "y": 9, "w": 34, "h": 9 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 7 },
+    "sourceSize": { "w": 32, "h": 7 },
+    "duration": 100
+   },
+   {
+    "filename": "slime 8.ase",
+    "frame": { "x": 102, "y": 9, "w": 34, "h": 9 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 7 },
+    "sourceSize": { "w": 32, "h": 7 },
+    "duration": 100
+   },
+   {
+    "filename": "slime 9.ase",
+    "frame": { "x": 0, "y": 18, "w": 34, "h": 9 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 7 },
+    "sourceSize": { "w": 32, "h": 7 },
+    "duration": 100
+   },
+   {
+    "filename": "slime 10.ase",
+    "frame": { "x": 34, "y": 18, "w": 34, "h": 9 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 7 },
+    "sourceSize": { "w": 32, "h": 7 },
+    "duration": 100
+   },
+   {
+    "filename": "slime 11.ase",
+    "frame": { "x": 68, "y": 18, "w": 34, "h": 9 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 7 },
+    "sourceSize": { "w": 32, "h": 7 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.2-x64",
+  "image": "slime.png",
+  "format": "RGBA8888",
+  "size": { "w": 136, "h": 27 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "idle", "from": 0, "to": 11, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 2", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

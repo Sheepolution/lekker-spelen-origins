@@ -1,0 +1,539 @@
+{ "frames": [
+   {
+    "filename": "konkie_head 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 200
+   },
+   {
+    "filename": "konkie_head 1.ase",
+    "frame": { "x": 648, "y": 0, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 60
+   },
+   {
+    "filename": "konkie_head 2.ase",
+    "frame": { "x": 1296, "y": 0, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 60
+   },
+   {
+    "filename": "konkie_head 3.ase",
+    "frame": { "x": 1944, "y": 0, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 60
+   },
+   {
+    "filename": "konkie_head 4.ase",
+    "frame": { "x": 2592, "y": 0, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 200
+   },
+   {
+    "filename": "konkie_head 5.ase",
+    "frame": { "x": 3240, "y": 0, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 75
+   },
+   {
+    "filename": "konkie_head 6.ase",
+    "frame": { "x": 3888, "y": 0, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 75
+   },
+   {
+    "filename": "konkie_head 7.ase",
+    "frame": { "x": 0, "y": 535, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 75
+   },
+   {
+    "filename": "konkie_head 8.ase",
+    "frame": { "x": 648, "y": 535, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 75
+   },
+   {
+    "filename": "konkie_head 9.ase",
+    "frame": { "x": 1296, "y": 535, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 75
+   },
+   {
+    "filename": "konkie_head 10.ase",
+    "frame": { "x": 1944, "y": 535, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 75
+   },
+   {
+    "filename": "konkie_head 11.ase",
+    "frame": { "x": 2592, "y": 535, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 75
+   },
+   {
+    "filename": "konkie_head 12.ase",
+    "frame": { "x": 3240, "y": 535, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 200
+   },
+   {
+    "filename": "konkie_head 13.ase",
+    "frame": { "x": 3888, "y": 535, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 60
+   },
+   {
+    "filename": "konkie_head 14.ase",
+    "frame": { "x": 0, "y": 1070, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 60
+   },
+   {
+    "filename": "konkie_head 15.ase",
+    "frame": { "x": 648, "y": 1070, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 60
+   },
+   {
+    "filename": "konkie_head 16.ase",
+    "frame": { "x": 1296, "y": 1070, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 75
+   },
+   {
+    "filename": "konkie_head 17.ase",
+    "frame": { "x": 1296, "y": 1070, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 75
+   },
+   {
+    "filename": "konkie_head 18.ase",
+    "frame": { "x": 1944, "y": 1070, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 800
+   },
+   {
+    "filename": "konkie_head 19.ase",
+    "frame": { "x": 2592, "y": 1070, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 100
+   },
+   {
+    "filename": "konkie_head 20.ase",
+    "frame": { "x": 3240, "y": 1070, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 100
+   },
+   {
+    "filename": "konkie_head 21.ase",
+    "frame": { "x": 3888, "y": 1070, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 100
+   },
+   {
+    "filename": "konkie_head 22.ase",
+    "frame": { "x": 0, "y": 1605, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 50
+   },
+   {
+    "filename": "konkie_head 23.ase",
+    "frame": { "x": 648, "y": 1605, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 100
+   },
+   {
+    "filename": "konkie_head 24.ase",
+    "frame": { "x": 1296, "y": 1605, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 100
+   },
+   {
+    "filename": "konkie_head 25.ase",
+    "frame": { "x": 1944, "y": 1605, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 200
+   },
+   {
+    "filename": "konkie_head 26.ase",
+    "frame": { "x": 2592, "y": 1605, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 100
+   },
+   {
+    "filename": "konkie_head 27.ase",
+    "frame": { "x": 3240, "y": 1605, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 100
+   },
+   {
+    "filename": "konkie_head 28.ase",
+    "frame": { "x": 3888, "y": 1605, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 100
+   },
+   {
+    "filename": "konkie_head 29.ase",
+    "frame": { "x": 0, "y": 2140, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 100
+   },
+   {
+    "filename": "konkie_head 30.ase",
+    "frame": { "x": 648, "y": 2140, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 100
+   },
+   {
+    "filename": "konkie_head 31.ase",
+    "frame": { "x": 1944, "y": 1070, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 300
+   },
+   {
+    "filename": "konkie_head 32.ase",
+    "frame": { "x": 2592, "y": 1070, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 100
+   },
+   {
+    "filename": "konkie_head 33.ase",
+    "frame": { "x": 3240, "y": 1070, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 100
+   },
+   {
+    "filename": "konkie_head 34.ase",
+    "frame": { "x": 3888, "y": 1070, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 100
+   },
+   {
+    "filename": "konkie_head 35.ase",
+    "frame": { "x": 0, "y": 1605, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 50
+   },
+   {
+    "filename": "konkie_head 36.ase",
+    "frame": { "x": 648, "y": 1605, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 100
+   },
+   {
+    "filename": "konkie_head 37.ase",
+    "frame": { "x": 1296, "y": 1605, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 100
+   },
+   {
+    "filename": "konkie_head 38.ase",
+    "frame": { "x": 1944, "y": 1605, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 800
+   },
+   {
+    "filename": "konkie_head 39.ase",
+    "frame": { "x": 1296, "y": 2140, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 100
+   },
+   {
+    "filename": "konkie_head 40.ase",
+    "frame": { "x": 1944, "y": 2140, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 60
+   },
+   {
+    "filename": "konkie_head 41.ase",
+    "frame": { "x": 2592, "y": 2140, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 60
+   },
+   {
+    "filename": "konkie_head 42.ase",
+    "frame": { "x": 3240, "y": 2140, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 60
+   },
+   {
+    "filename": "konkie_head 43.ase",
+    "frame": { "x": 3888, "y": 2140, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 200
+   },
+   {
+    "filename": "konkie_head 44.ase",
+    "frame": { "x": 3240, "y": 2140, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 60
+   },
+   {
+    "filename": "konkie_head 45.ase",
+    "frame": { "x": 0, "y": 2675, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 60
+   },
+   {
+    "filename": "konkie_head 46.ase",
+    "frame": { "x": 648, "y": 2675, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 60
+   },
+   {
+    "filename": "konkie_head 47.ase",
+    "frame": { "x": 1296, "y": 2675, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 200
+   },
+   {
+    "filename": "konkie_head 48.ase",
+    "frame": { "x": 1944, "y": 2675, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 100
+   },
+   {
+    "filename": "konkie_head 49.ase",
+    "frame": { "x": 2592, "y": 2675, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 60
+   },
+   {
+    "filename": "konkie_head 50.ase",
+    "frame": { "x": 3240, "y": 2675, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 60
+   },
+   {
+    "filename": "konkie_head 51.ase",
+    "frame": { "x": 3888, "y": 2675, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 60
+   },
+   {
+    "filename": "konkie_head 52.ase",
+    "frame": { "x": 0, "y": 3210, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 200
+   },
+   {
+    "filename": "konkie_head 53.ase",
+    "frame": { "x": 3888, "y": 2675, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 60
+   },
+   {
+    "filename": "konkie_head 54.ase",
+    "frame": { "x": 648, "y": 3210, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 60
+   },
+   {
+    "filename": "konkie_head 55.ase",
+    "frame": { "x": 1296, "y": 3210, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 60
+   },
+   {
+    "filename": "konkie_head 56.ase",
+    "frame": { "x": 1944, "y": 3210, "w": 648, "h": 535 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 646, "h": 533 },
+    "sourceSize": { "w": 646, "h": 533 },
+    "duration": 200
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.2-x64",
+  "image": "konkie_head.png",
+  "format": "RGBA8888",
+  "size": { "w": 4536, "h": 3745 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "idle", "from": 0, "to": 4, "direction": "pingpong", "color": "#000000ff" },
+   { "name": "confused", "from": 5, "to": 11, "direction": "forward", "color": "#000000ff" },
+   { "name": "angry", "from": 12, "to": 15, "direction": "forward", "color": "#000000ff", "data": "after=steam" },
+   { "name": "steam", "from": 16, "to": 17, "direction": "forward", "color": "#000000ff" },
+   { "name": "barrel", "from": 18, "to": 30, "direction": "forward", "color": "#000000ff" },
+   { "name": "book_grab", "from": 31, "to": 38, "direction": "forward", "color": "#000000ff", "data": "after=book_read" },
+   { "name": "book_read", "from": 39, "to": 56, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "color body", "opacity": 255, "blendMode": "normal" },
+   { "name": "line body", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

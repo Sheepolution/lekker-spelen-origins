@@ -1,0 +1,318 @@
+{ "frames": [
+   {
+    "filename": "pier 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "sourceSize": { "w": 61, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "pier 1.ase",
+    "frame": { "x": 61, "y": 0, "w": 61, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "sourceSize": { "w": 61, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "pier 2.ase",
+    "frame": { "x": 122, "y": 0, "w": 61, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "sourceSize": { "w": 61, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "pier 3.ase",
+    "frame": { "x": 183, "y": 0, "w": 61, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "sourceSize": { "w": 61, "h": 68 },
+    "duration": 50
+   },
+   {
+    "filename": "pier 4.ase",
+    "frame": { "x": 244, "y": 0, "w": 61, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "sourceSize": { "w": 61, "h": 68 },
+    "duration": 50
+   },
+   {
+    "filename": "pier 5.ase",
+    "frame": { "x": 0, "y": 68, "w": 61, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "sourceSize": { "w": 61, "h": 68 },
+    "duration": 50
+   },
+   {
+    "filename": "pier 6.ase",
+    "frame": { "x": 61, "y": 68, "w": 61, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "sourceSize": { "w": 61, "h": 68 },
+    "duration": 50
+   },
+   {
+    "filename": "pier 7.ase",
+    "frame": { "x": 122, "y": 68, "w": 61, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "sourceSize": { "w": 61, "h": 68 },
+    "duration": 50
+   },
+   {
+    "filename": "pier 8.ase",
+    "frame": { "x": 183, "y": 68, "w": 61, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "sourceSize": { "w": 61, "h": 68 },
+    "duration": 50
+   },
+   {
+    "filename": "pier 9.ase",
+    "frame": { "x": 244, "y": 68, "w": 61, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "sourceSize": { "w": 61, "h": 68 },
+    "duration": 50
+   },
+   {
+    "filename": "pier 10.ase",
+    "frame": { "x": 0, "y": 136, "w": 61, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "sourceSize": { "w": 61, "h": 68 },
+    "duration": 50
+   },
+   {
+    "filename": "pier 11.ase",
+    "frame": { "x": 61, "y": 136, "w": 61, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "sourceSize": { "w": 61, "h": 68 },
+    "duration": 50
+   },
+   {
+    "filename": "pier 12.ase",
+    "frame": { "x": 122, "y": 136, "w": 61, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "sourceSize": { "w": 61, "h": 68 },
+    "duration": 50
+   },
+   {
+    "filename": "pier 13.ase",
+    "frame": { "x": 183, "y": 136, "w": 61, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "sourceSize": { "w": 61, "h": 68 },
+    "duration": 50
+   },
+   {
+    "filename": "pier 14.ase",
+    "frame": { "x": 244, "y": 136, "w": 61, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "sourceSize": { "w": 61, "h": 68 },
+    "duration": 50
+   },
+   {
+    "filename": "pier 15.ase",
+    "frame": { "x": 0, "y": 204, "w": 61, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "sourceSize": { "w": 61, "h": 68 },
+    "duration": 50
+   },
+   {
+    "filename": "pier 16.ase",
+    "frame": { "x": 61, "y": 204, "w": 61, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "sourceSize": { "w": 61, "h": 68 },
+    "duration": 50
+   },
+   {
+    "filename": "pier 17.ase",
+    "frame": { "x": 122, "y": 204, "w": 61, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "sourceSize": { "w": 61, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "pier 18.ase",
+    "frame": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "sourceSize": { "w": 61, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "pier 19.ase",
+    "frame": { "x": 61, "y": 204, "w": 61, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "sourceSize": { "w": 61, "h": 68 },
+    "duration": 50
+   },
+   {
+    "filename": "pier 20.ase",
+    "frame": { "x": 0, "y": 204, "w": 61, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "sourceSize": { "w": 61, "h": 68 },
+    "duration": 50
+   },
+   {
+    "filename": "pier 21.ase",
+    "frame": { "x": 244, "y": 136, "w": 61, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "sourceSize": { "w": 61, "h": 68 },
+    "duration": 50
+   },
+   {
+    "filename": "pier 22.ase",
+    "frame": { "x": 244, "y": 136, "w": 61, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "sourceSize": { "w": 61, "h": 68 },
+    "duration": 50
+   },
+   {
+    "filename": "pier 23.ase",
+    "frame": { "x": 183, "y": 204, "w": 61, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "sourceSize": { "w": 61, "h": 68 },
+    "duration": 50
+   },
+   {
+    "filename": "pier 24.ase",
+    "frame": { "x": 244, "y": 204, "w": 61, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "sourceSize": { "w": 61, "h": 68 },
+    "duration": 50
+   },
+   {
+    "filename": "pier 25.ase",
+    "frame": { "x": 0, "y": 272, "w": 61, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "sourceSize": { "w": 61, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "pier 26.ase",
+    "frame": { "x": 61, "y": 272, "w": 61, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "sourceSize": { "w": 61, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "pier 27.ase",
+    "frame": { "x": 61, "y": 272, "w": 61, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "sourceSize": { "w": 61, "h": 68 },
+    "duration": 100
+   },
+   {
+    "filename": "pier 28.ase",
+    "frame": { "x": 244, "y": 204, "w": 61, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "sourceSize": { "w": 61, "h": 68 },
+    "duration": 50
+   },
+   {
+    "filename": "pier 29.ase",
+    "frame": { "x": 183, "y": 204, "w": 61, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "sourceSize": { "w": 61, "h": 68 },
+    "duration": 50
+   },
+   {
+    "filename": "pier 30.ase",
+    "frame": { "x": 244, "y": 136, "w": 61, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "sourceSize": { "w": 61, "h": 68 },
+    "duration": 50
+   },
+   {
+    "filename": "pier 31.ase",
+    "frame": { "x": 122, "y": 272, "w": 61, "h": 68 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 61, "h": 68 },
+    "sourceSize": { "w": 61, "h": 68 },
+    "duration": 500
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.6-x64",
+  "image": "pier.png",
+  "format": "RGBA8888",
+  "size": { "w": 305, "h": 340 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "idle", "from": 0, "to": 0, "direction": "forward", "color": "#000000ff" },
+   { "name": "hit", "from": 1, "to": 1, "direction": "forward", "color": "#000000ff" },
+   { "name": "hit_hat", "from": 2, "to": 2, "direction": "forward", "color": "#000000ff" },
+   { "name": "drill", "from": 3, "to": 5, "direction": "forward", "color": "#000000ff" },
+   { "name": "drill_in_ground", "from": 6, "to": 9, "direction": "forward", "color": "#000000ff", "data": "once=true" },
+   { "name": "wheel", "from": 10, "to": 13, "direction": "forward", "color": "#000000ff" },
+   { "name": "out", "from": 14, "to": 18, "direction": "forward", "color": "#000000ff", "data": "after=idle" },
+   { "name": "in", "from": 19, "to": 21, "direction": "forward", "color": "#000000ff", "data": "once=true" },
+   { "name": "out_rocket", "from": 22, "to": 26, "direction": "forward", "color": "#000000ff", "data": "after=rocket" },
+   { "name": "rocket", "from": 27, "to": 27, "direction": "forward", "color": "#000000ff" },
+   { "name": "in_rocket", "from": 28, "to": 30, "direction": "forward", "color": "#000000ff", "data": "once=true" },
+   { "name": "dead", "from": 31, "to": 31, "direction": "forward", "color": "#000000ff", "data": "once=true" }
+  ],
+  "layers": [
+   { "name": "Layer 2", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

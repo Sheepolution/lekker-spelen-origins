@@ -1,0 +1,69 @@
+{ "frames": [
+   {
+    "filename": "konkie 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 574, "h": 500 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 572, "h": 498 },
+    "sourceSize": { "w": 572, "h": 498 },
+    "duration": 200
+   },
+   {
+    "filename": "konkie 1.ase",
+    "frame": { "x": 574, "y": 0, "w": 574, "h": 500 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 572, "h": 498 },
+    "sourceSize": { "w": 572, "h": 498 },
+    "duration": 60
+   },
+   {
+    "filename": "konkie 2.ase",
+    "frame": { "x": 1148, "y": 0, "w": 574, "h": 500 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 572, "h": 498 },
+    "sourceSize": { "w": 572, "h": 498 },
+    "duration": 60
+   },
+   {
+    "filename": "konkie 3.ase",
+    "frame": { "x": 0, "y": 500, "w": 574, "h": 500 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 572, "h": 498 },
+    "sourceSize": { "w": 572, "h": 498 },
+    "duration": 60
+   },
+   {
+    "filename": "konkie 4.ase",
+    "frame": { "x": 574, "y": 500, "w": 574, "h": 500 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 572, "h": 498 },
+    "sourceSize": { "w": 572, "h": 498 },
+    "duration": 200
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.2-x64",
+  "image": "konkie.png",
+  "format": "RGBA8888",
+  "size": { "w": 1722, "h": 1000 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "idle", "from": 0, "to": 4, "direction": "pingpong", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "color body", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 7", "opacity": 255, "blendMode": "normal" },
+   { "name": "book", "opacity": 255, "blendMode": "normal" },
+   { "name": "line body", "opacity": 255, "blendMode": "normal" },
+   { "name": "color hands", "opacity": 255, "blendMode": "normal" },
+   { "name": "line hands", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

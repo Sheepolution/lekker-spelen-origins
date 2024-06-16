@@ -1,0 +1,86 @@
+{ "frames": [
+   {
+    "filename": "logo 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 161, "h": 134 },
+    "sourceSize": { "w": 161, "h": 134 },
+    "duration": 100
+   },
+   {
+    "filename": "logo 1.ase",
+    "frame": { "x": 169, "y": 0, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 161, "h": 134 },
+    "sourceSize": { "w": 161, "h": 134 },
+    "duration": 300
+   },
+   {
+    "filename": "logo 2.ase",
+    "frame": { "x": 0, "y": 142, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 161, "h": 134 },
+    "sourceSize": { "w": 161, "h": 134 },
+    "duration": 100
+   },
+   {
+    "filename": "logo 3.ase",
+    "frame": { "x": 169, "y": 142, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 161, "h": 134 },
+    "sourceSize": { "w": 161, "h": 134 },
+    "duration": 50
+   },
+   {
+    "filename": "logo 4.ase",
+    "frame": { "x": 169, "y": 142, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 161, "h": 134 },
+    "sourceSize": { "w": 161, "h": 134 },
+    "duration": 50
+   },
+   {
+    "filename": "logo 5.ase",
+    "frame": { "x": 0, "y": 142, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 161, "h": 134 },
+    "sourceSize": { "w": 161, "h": 134 },
+    "duration": 50
+   },
+   {
+    "filename": "logo 6.ase",
+    "frame": { "x": 169, "y": 142, "w": 169, "h": 142 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 161, "h": 134 },
+    "sourceSize": { "w": 161, "h": 134 },
+    "duration": 50
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.2-x64",
+  "image": "logo.png",
+  "format": "RGBA8888",
+  "size": { "w": 338, "h": 284 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "off", "from": 0, "to": 0, "direction": "forward", "color": "#000000ff" },
+   { "name": "startup", "from": 1, "to": 1, "direction": "forward", "color": "#000000ff", "data": "once=true" },
+   { "name": "startup2", "from": 2, "to": 5, "direction": "forward", "color": "#000000ff", "data": "after=on" },
+   { "name": "on", "from": 6, "to": 6, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 3", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

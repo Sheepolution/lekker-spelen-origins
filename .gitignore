@@ -1,0 +1,10 @@
+.gitbackup
+.vscode
+.DS_Store
+bin
+backups
+.env
+lib
+node_modules
+media
+docs

@@ -1,0 +1,18 @@
+name = "Game"
+
+love_files = [
+    "+*/*",
+    "-*/assets/images/*.ase",
+    "-*/assets/images/*.aseprite",
+]
+
+default_targets = []
+build_directory = "../bin"
+icon_file = "icon.png"
+keep_game_directory = false
+
+[hooks]
+postbuild = [
+    # Game name, memory, build directory, game width, game height
+	"python ../build/lovejs.py Game 400000000 {build_directory} 960 540"
+]

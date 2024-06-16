@@ -1,0 +1,799 @@
+{ "frames": [
+   {
+    "filename": "peter 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 120
+   },
+   {
+    "filename": "peter 1.ase",
+    "frame": { "x": 142, "y": 0, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 120
+   },
+   {
+    "filename": "peter 2.ase",
+    "frame": { "x": 284, "y": 0, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 120
+   },
+   {
+    "filename": "peter 3.ase",
+    "frame": { "x": 426, "y": 0, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 120
+   },
+   {
+    "filename": "peter 4.ase",
+    "frame": { "x": 568, "y": 0, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 120
+   },
+   {
+    "filename": "peter 5.ase",
+    "frame": { "x": 710, "y": 0, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 120
+   },
+   {
+    "filename": "peter 6.ase",
+    "frame": { "x": 852, "y": 0, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 120
+   },
+   {
+    "filename": "peter 7.ase",
+    "frame": { "x": 994, "y": 0, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 120
+   },
+   {
+    "filename": "peter 8.ase",
+    "frame": { "x": 1136, "y": 0, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 120
+   },
+   {
+    "filename": "peter 9.ase",
+    "frame": { "x": 1278, "y": 0, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 120
+   },
+   {
+    "filename": "peter 10.ase",
+    "frame": { "x": 0, "y": 57, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 120
+   },
+   {
+    "filename": "peter 11.ase",
+    "frame": { "x": 142, "y": 57, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 120
+   },
+   {
+    "filename": "peter 12.ase",
+    "frame": { "x": 284, "y": 57, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 120
+   },
+   {
+    "filename": "peter 13.ase",
+    "frame": { "x": 426, "y": 57, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 120
+   },
+   {
+    "filename": "peter 14.ase",
+    "frame": { "x": 568, "y": 57, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 120
+   },
+   {
+    "filename": "peter 15.ase",
+    "frame": { "x": 710, "y": 57, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 120
+   },
+   {
+    "filename": "peter 16.ase",
+    "frame": { "x": 852, "y": 57, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 120
+   },
+   {
+    "filename": "peter 17.ase",
+    "frame": { "x": 994, "y": 57, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 120
+   },
+   {
+    "filename": "peter 18.ase",
+    "frame": { "x": 1136, "y": 57, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 120
+   },
+   {
+    "filename": "peter 19.ase",
+    "frame": { "x": 1278, "y": 57, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 120
+   },
+   {
+    "filename": "peter 20.ase",
+    "frame": { "x": 0, "y": 114, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 120
+   },
+   {
+    "filename": "peter 21.ase",
+    "frame": { "x": 142, "y": 114, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 120
+   },
+   {
+    "filename": "peter 22.ase",
+    "frame": { "x": 284, "y": 114, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 120
+   },
+   {
+    "filename": "peter 23.ase",
+    "frame": { "x": 426, "y": 114, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 120
+   },
+   {
+    "filename": "peter 24.ase",
+    "frame": { "x": 568, "y": 114, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 100
+   },
+   {
+    "filename": "peter 25.ase",
+    "frame": { "x": 710, "y": 114, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 100
+   },
+   {
+    "filename": "peter 26.ase",
+    "frame": { "x": 852, "y": 114, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 100
+   },
+   {
+    "filename": "peter 27.ase",
+    "frame": { "x": 994, "y": 114, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 83
+   },
+   {
+    "filename": "peter 28.ase",
+    "frame": { "x": 1136, "y": 114, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 83
+   },
+   {
+    "filename": "peter 29.ase",
+    "frame": { "x": 1278, "y": 114, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 83
+   },
+   {
+    "filename": "peter 30.ase",
+    "frame": { "x": 0, "y": 171, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 83
+   },
+   {
+    "filename": "peter 31.ase",
+    "frame": { "x": 142, "y": 171, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 83
+   },
+   {
+    "filename": "peter 32.ase",
+    "frame": { "x": 284, "y": 171, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 83
+   },
+   {
+    "filename": "peter 33.ase",
+    "frame": { "x": 426, "y": 171, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 83
+   },
+   {
+    "filename": "peter 34.ase",
+    "frame": { "x": 568, "y": 171, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 83
+   },
+   {
+    "filename": "peter 35.ase",
+    "frame": { "x": 710, "y": 171, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 83
+   },
+   {
+    "filename": "peter 36.ase",
+    "frame": { "x": 852, "y": 171, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 83
+   },
+   {
+    "filename": "peter 37.ase",
+    "frame": { "x": 994, "y": 171, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 83
+   },
+   {
+    "filename": "peter 38.ase",
+    "frame": { "x": 1136, "y": 171, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 83
+   },
+   {
+    "filename": "peter 39.ase",
+    "frame": { "x": 1278, "y": 171, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 83
+   },
+   {
+    "filename": "peter 40.ase",
+    "frame": { "x": 0, "y": 228, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 83
+   },
+   {
+    "filename": "peter 41.ase",
+    "frame": { "x": 142, "y": 228, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 83
+   },
+   {
+    "filename": "peter 42.ase",
+    "frame": { "x": 284, "y": 228, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 83
+   },
+   {
+    "filename": "peter 43.ase",
+    "frame": { "x": 426, "y": 228, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 25
+   },
+   {
+    "filename": "peter 44.ase",
+    "frame": { "x": 568, "y": 228, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 100
+   },
+   {
+    "filename": "peter 45.ase",
+    "frame": { "x": 710, "y": 228, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 100
+   },
+   {
+    "filename": "peter 46.ase",
+    "frame": { "x": 852, "y": 228, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 100
+   },
+   {
+    "filename": "peter 47.ase",
+    "frame": { "x": 994, "y": 228, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 100
+   },
+   {
+    "filename": "peter 48.ase",
+    "frame": { "x": 1136, "y": 228, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 100
+   },
+   {
+    "filename": "peter 49.ase",
+    "frame": { "x": 1278, "y": 228, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 100
+   },
+   {
+    "filename": "peter 50.ase",
+    "frame": { "x": 0, "y": 285, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 100
+   },
+   {
+    "filename": "peter 51.ase",
+    "frame": { "x": 142, "y": 285, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 100
+   },
+   {
+    "filename": "peter 52.ase",
+    "frame": { "x": 284, "y": 285, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 100
+   },
+   {
+    "filename": "peter 53.ase",
+    "frame": { "x": 426, "y": 285, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 100
+   },
+   {
+    "filename": "peter 54.ase",
+    "frame": { "x": 568, "y": 285, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 50
+   },
+   {
+    "filename": "peter 55.ase",
+    "frame": { "x": 710, "y": 285, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 100
+   },
+   {
+    "filename": "peter 56.ase",
+    "frame": { "x": 852, "y": 285, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 100
+   },
+   {
+    "filename": "peter 57.ase",
+    "frame": { "x": 994, "y": 285, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 100
+   },
+   {
+    "filename": "peter 58.ase",
+    "frame": { "x": 1136, "y": 285, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 100
+   },
+   {
+    "filename": "peter 59.ase",
+    "frame": { "x": 1278, "y": 285, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 100
+   },
+   {
+    "filename": "peter 60.ase",
+    "frame": { "x": 0, "y": 342, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 100
+   },
+   {
+    "filename": "peter 61.ase",
+    "frame": { "x": 142, "y": 342, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 100
+   },
+   {
+    "filename": "peter 62.ase",
+    "frame": { "x": 284, "y": 342, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 75
+   },
+   {
+    "filename": "peter 63.ase",
+    "frame": { "x": 426, "y": 342, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 75
+   },
+   {
+    "filename": "peter 64.ase",
+    "frame": { "x": 568, "y": 342, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 75
+   },
+   {
+    "filename": "peter 65.ase",
+    "frame": { "x": 710, "y": 342, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 75
+   },
+   {
+    "filename": "peter 66.ase",
+    "frame": { "x": 852, "y": 342, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 75
+   },
+   {
+    "filename": "peter 67.ase",
+    "frame": { "x": 994, "y": 342, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 75
+   },
+   {
+    "filename": "peter 68.ase",
+    "frame": { "x": 1136, "y": 342, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 120
+   },
+   {
+    "filename": "peter 69.ase",
+    "frame": { "x": 1278, "y": 342, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 120
+   },
+   {
+    "filename": "peter 70.ase",
+    "frame": { "x": 0, "y": 399, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 120
+   },
+   {
+    "filename": "peter 71.ase",
+    "frame": { "x": 142, "y": 399, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 120
+   },
+   {
+    "filename": "peter 72.ase",
+    "frame": { "x": 284, "y": 399, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 120
+   },
+   {
+    "filename": "peter 73.ase",
+    "frame": { "x": 426, "y": 399, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 120
+   },
+   {
+    "filename": "peter 74.ase",
+    "frame": { "x": 568, "y": 399, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 120
+   },
+   {
+    "filename": "peter 75.ase",
+    "frame": { "x": 710, "y": 399, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 120
+   },
+   {
+    "filename": "peter 76.ase",
+    "frame": { "x": 852, "y": 399, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 75
+   },
+   {
+    "filename": "peter 77.ase",
+    "frame": { "x": 994, "y": 399, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 75
+   },
+   {
+    "filename": "peter 78.ase",
+    "frame": { "x": 1136, "y": 399, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 800
+   },
+   {
+    "filename": "peter 79.ase",
+    "frame": { "x": 1278, "y": 399, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 200
+   },
+   {
+    "filename": "peter 80.ase",
+    "frame": { "x": 0, "y": 456, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 200
+   },
+   {
+    "filename": "peter 81.ase",
+    "frame": { "x": 142, "y": 456, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 100
+   },
+   {
+    "filename": "peter 82.ase",
+    "frame": { "x": 284, "y": 456, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 50
+   },
+   {
+    "filename": "peter 83.ase",
+    "frame": { "x": 426, "y": 456, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 50
+   },
+   {
+    "filename": "peter 84.ase",
+    "frame": { "x": 568, "y": 456, "w": 142, "h": 57 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 55 },
+    "sourceSize": { "w": 140, "h": 55 },
+    "duration": 50
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.6-x64",
+  "image": "peter.png",
+  "format": "RGBA8888",
+  "size": { "w": 1420, "h": 513 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "idle", "from": 0, "to": 7, "direction": "forward", "color": "#000000ff" },
+   { "name": "idle_hold", "from": 8, "to": 15, "direction": "forward", "color": "#000000ff" },
+   { "name": "idle_look", "from": 16, "to": 23, "direction": "forward", "color": "#000000ff" },
+   { "name": "hug", "from": 24, "to": 24, "direction": "forward", "color": "#000000ff" },
+   { "name": "confused", "from": 25, "to": 26, "direction": "forward", "color": "#000000ff" },
+   { "name": "walk", "from": 27, "to": 34, "direction": "forward", "color": "#000000ff" },
+   { "name": "walk_hold", "from": 35, "to": 42, "direction": "forward", "color": "#000000ff" },
+   { "name": "crouch", "from": 43, "to": 45, "direction": "forward", "color": "#000000ff", "data": "once=true" },
+   { "name": "crawl", "from": 46, "to": 53, "direction": "forward", "color": "#000000ff" },
+   { "name": "jump", "from": 54, "to": 56, "direction": "forward", "color": "#000000ff", "data": "once=true" },
+   { "name": "fall", "from": 57, "to": 61, "direction": "forward", "color": "#000000ff", "data": "once=true" },
+   { "name": "run", "from": 62, "to": 67, "direction": "forward", "color": "#000000ff" },
+   { "name": "swim", "from": 68, "to": 75, "direction": "forward", "color": "#000000ff" },
+   { "name": "electric", "from": 76, "to": 77, "direction": "forward", "color": "#000000ff" },
+   { "name": "die", "from": 78, "to": 81, "direction": "forward", "color": "#000000ff", "data": "once=true" },
+   { "name": "ball", "from": 82, "to": 84, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

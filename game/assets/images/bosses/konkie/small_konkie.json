@@ -1,0 +1,241 @@
+{ "frames": [
+   {
+    "filename": "small_konkie 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 85, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 158 },
+    "sourceSize": { "w": 83, "h": 158 },
+    "duration": 100
+   },
+   {
+    "filename": "small_konkie 1.ase",
+    "frame": { "x": 85, "y": 0, "w": 85, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 158 },
+    "sourceSize": { "w": 83, "h": 158 },
+    "duration": 500
+   },
+   {
+    "filename": "small_konkie 2.ase",
+    "frame": { "x": 170, "y": 0, "w": 85, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 158 },
+    "sourceSize": { "w": 83, "h": 158 },
+    "duration": 100
+   },
+   {
+    "filename": "small_konkie 3.ase",
+    "frame": { "x": 255, "y": 0, "w": 85, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 158 },
+    "sourceSize": { "w": 83, "h": 158 },
+    "duration": 100
+   },
+   {
+    "filename": "small_konkie 4.ase",
+    "frame": { "x": 0, "y": 160, "w": 85, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 158 },
+    "sourceSize": { "w": 83, "h": 158 },
+    "duration": 100
+   },
+   {
+    "filename": "small_konkie 5.ase",
+    "frame": { "x": 85, "y": 160, "w": 85, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 158 },
+    "sourceSize": { "w": 83, "h": 158 },
+    "duration": 100
+   },
+   {
+    "filename": "small_konkie 6.ase",
+    "frame": { "x": 170, "y": 160, "w": 85, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 158 },
+    "sourceSize": { "w": 83, "h": 158 },
+    "duration": 100
+   },
+   {
+    "filename": "small_konkie 7.ase",
+    "frame": { "x": 255, "y": 160, "w": 85, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 158 },
+    "sourceSize": { "w": 83, "h": 158 },
+    "duration": 100
+   },
+   {
+    "filename": "small_konkie 8.ase",
+    "frame": { "x": 0, "y": 320, "w": 85, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 158 },
+    "sourceSize": { "w": 83, "h": 158 },
+    "duration": 100
+   },
+   {
+    "filename": "small_konkie 9.ase",
+    "frame": { "x": 85, "y": 320, "w": 85, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 158 },
+    "sourceSize": { "w": 83, "h": 158 },
+    "duration": 100
+   },
+   {
+    "filename": "small_konkie 10.ase",
+    "frame": { "x": 170, "y": 320, "w": 85, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 158 },
+    "sourceSize": { "w": 83, "h": 158 },
+    "duration": 100
+   },
+   {
+    "filename": "small_konkie 11.ase",
+    "frame": { "x": 0, "y": 320, "w": 85, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 158 },
+    "sourceSize": { "w": 83, "h": 158 },
+    "duration": 100
+   },
+   {
+    "filename": "small_konkie 12.ase",
+    "frame": { "x": 85, "y": 320, "w": 85, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 158 },
+    "sourceSize": { "w": 83, "h": 158 },
+    "duration": 100
+   },
+   {
+    "filename": "small_konkie 13.ase",
+    "frame": { "x": 170, "y": 320, "w": 85, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 158 },
+    "sourceSize": { "w": 83, "h": 158 },
+    "duration": 100
+   },
+   {
+    "filename": "small_konkie 14.ase",
+    "frame": { "x": 0, "y": 320, "w": 85, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 158 },
+    "sourceSize": { "w": 83, "h": 158 },
+    "duration": 100
+   },
+   {
+    "filename": "small_konkie 15.ase",
+    "frame": { "x": 85, "y": 320, "w": 85, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 158 },
+    "sourceSize": { "w": 83, "h": 158 },
+    "duration": 100
+   },
+   {
+    "filename": "small_konkie 16.ase",
+    "frame": { "x": 170, "y": 320, "w": 85, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 158 },
+    "sourceSize": { "w": 83, "h": 158 },
+    "duration": 100
+   },
+   {
+    "filename": "small_konkie 17.ase",
+    "frame": { "x": 0, "y": 320, "w": 85, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 158 },
+    "sourceSize": { "w": 83, "h": 158 },
+    "duration": 100
+   },
+   {
+    "filename": "small_konkie 18.ase",
+    "frame": { "x": 85, "y": 320, "w": 85, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 158 },
+    "sourceSize": { "w": 83, "h": 158 },
+    "duration": 100
+   },
+   {
+    "filename": "small_konkie 19.ase",
+    "frame": { "x": 170, "y": 320, "w": 85, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 158 },
+    "sourceSize": { "w": 83, "h": 158 },
+    "duration": 100
+   },
+   {
+    "filename": "small_konkie 20.ase",
+    "frame": { "x": 255, "y": 320, "w": 85, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 158 },
+    "sourceSize": { "w": 83, "h": 158 },
+    "duration": 100
+   },
+   {
+    "filename": "small_konkie 21.ase",
+    "frame": { "x": 0, "y": 480, "w": 85, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 158 },
+    "sourceSize": { "w": 83, "h": 158 },
+    "duration": 100
+   },
+   {
+    "filename": "small_konkie 22.ase",
+    "frame": { "x": 85, "y": 480, "w": 85, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 158 },
+    "sourceSize": { "w": 83, "h": 158 },
+    "duration": 50
+   },
+   {
+    "filename": "small_konkie 23.ase",
+    "frame": { "x": 170, "y": 480, "w": 85, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 83, "h": 158 },
+    "sourceSize": { "w": 83, "h": 158 },
+    "duration": 50
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.3-beta6-x64",
+  "image": "small_konkie.png",
+  "format": "RGBA8888",
+  "size": { "w": 340, "h": 640 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "idle", "from": 0, "to": 0, "direction": "forward", "color": "#000000ff" },
+   { "name": "eat", "from": 1, "to": 21, "direction": "forward", "color": "#000000ff" },
+   { "name": "beamed", "from": 22, "to": 23, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "stool", "opacity": 255, "blendMode": "normal" },
+   { "name": "konkie", "opacity": 255, "blendMode": "normal" },
+   { "name": "legs", "opacity": 255, "blendMode": "normal" },
+   { "name": "banaan", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

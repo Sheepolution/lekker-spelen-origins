@@ -1,0 +1,82 @@
+{ "frames": [
+   {
+    "filename": "mole_hill 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 65, "h": 63 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 63, "h": 61 },
+    "sourceSize": { "w": 63, "h": 61 },
+    "duration": 100
+   },
+   {
+    "filename": "mole_hill 1.ase",
+    "frame": { "x": 65, "y": 0, "w": 65, "h": 63 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 63, "h": 61 },
+    "sourceSize": { "w": 63, "h": 61 },
+    "duration": 100
+   },
+   {
+    "filename": "mole_hill 2.ase",
+    "frame": { "x": 130, "y": 0, "w": 65, "h": 63 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 63, "h": 61 },
+    "sourceSize": { "w": 63, "h": 61 },
+    "duration": 100
+   },
+   {
+    "filename": "mole_hill 3.ase",
+    "frame": { "x": 0, "y": 63, "w": 65, "h": 63 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 63, "h": 61 },
+    "sourceSize": { "w": 63, "h": 61 },
+    "duration": 100
+   },
+   {
+    "filename": "mole_hill 4.ase",
+    "frame": { "x": 65, "y": 63, "w": 65, "h": 63 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 63, "h": 61 },
+    "sourceSize": { "w": 63, "h": 61 },
+    "duration": 100
+   },
+   {
+    "filename": "mole_hill 5.ase",
+    "frame": { "x": 130, "y": 63, "w": 65, "h": 63 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 63, "h": 61 },
+    "sourceSize": { "w": 63, "h": 61 },
+    "duration": 100
+   },
+   {
+    "filename": "mole_hill 6.ase",
+    "frame": { "x": 0, "y": 126, "w": 65, "h": 63 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 63, "h": 61 },
+    "sourceSize": { "w": 63, "h": 61 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.3-beta6-x64",
+  "image": "mole_hill.png",
+  "format": "RGBA8888",
+  "size": { "w": 195, "h": 189 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "idle", "from": 0, "to": 6, "direction": "forward", "color": "#000000ff", "data": "once=true" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

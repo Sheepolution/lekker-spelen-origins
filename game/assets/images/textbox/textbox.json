@@ -1,0 +1,27 @@
+{ "frames": [
+   {
+    "filename": "textbox.png",
+    "frame": { "x": 0, "y": 0, "w": 690, "h": 114 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 688, "h": 112 },
+    "sourceSize": { "w": 688, "h": 112 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.3-beta6-x64",
+  "image": "textbox-sheet.png",
+  "format": "RGBA8888",
+  "size": { "w": 690, "h": 114 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

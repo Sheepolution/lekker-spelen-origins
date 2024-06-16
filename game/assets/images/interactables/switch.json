@@ -1,0 +1,110 @@
+{ "frames": [
+   {
+    "filename": "switch 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 34, "h": 50 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 48 },
+    "sourceSize": { "w": 32, "h": 48 },
+    "duration": 100
+   },
+   {
+    "filename": "switch 1.ase",
+    "frame": { "x": 34, "y": 0, "w": 34, "h": 50 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 48 },
+    "sourceSize": { "w": 32, "h": 48 },
+    "duration": 100
+   },
+   {
+    "filename": "switch 2.ase",
+    "frame": { "x": 68, "y": 0, "w": 34, "h": 50 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 48 },
+    "sourceSize": { "w": 32, "h": 48 },
+    "duration": 50
+   },
+   {
+    "filename": "switch 3.ase",
+    "frame": { "x": 102, "y": 0, "w": 34, "h": 50 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 48 },
+    "sourceSize": { "w": 32, "h": 48 },
+    "duration": 100
+   },
+   {
+    "filename": "switch 4.ase",
+    "frame": { "x": 136, "y": 0, "w": 34, "h": 50 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 48 },
+    "sourceSize": { "w": 32, "h": 48 },
+    "duration": 100
+   },
+   {
+    "filename": "switch 5.ase",
+    "frame": { "x": 170, "y": 0, "w": 34, "h": 50 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 48 },
+    "sourceSize": { "w": 32, "h": 48 },
+    "duration": 100
+   },
+   {
+    "filename": "switch 6.ase",
+    "frame": { "x": 204, "y": 0, "w": 34, "h": 50 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 48 },
+    "sourceSize": { "w": 32, "h": 48 },
+    "duration": 100
+   },
+   {
+    "filename": "switch 7.ase",
+    "frame": { "x": 238, "y": 0, "w": 34, "h": 50 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 48 },
+    "sourceSize": { "w": 32, "h": 48 },
+    "duration": 50
+   },
+   {
+    "filename": "switch 8.ase",
+    "frame": { "x": 272, "y": 0, "w": 34, "h": 50 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 48 },
+    "sourceSize": { "w": 32, "h": 48 },
+    "duration": 100
+   },
+   {
+    "filename": "switch 9.ase",
+    "frame": { "x": 306, "y": 0, "w": 34, "h": 50 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 48 },
+    "sourceSize": { "w": 32, "h": 48 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.3-beta6-x64",
+  "image": "switch.png",
+  "format": "RGBA8888",
+  "size": { "w": 340, "h": 50 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "on", "from": 0, "to": 4, "direction": "forward", "color": "#000000ff", "data": "once=true" },
+   { "name": "off", "from": 5, "to": 9, "direction": "forward", "color": "#000000ff", "data": "once=true" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

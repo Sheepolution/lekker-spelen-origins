@@ -1,0 +1,103 @@
+{ "frames": [
+   {
+    "filename": "oncto 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 124, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 122, "h": 118 },
+    "sourceSize": { "w": 122, "h": 118 },
+    "duration": 200
+   },
+   {
+    "filename": "oncto 1.ase",
+    "frame": { "x": 124, "y": 0, "w": 124, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 122, "h": 118 },
+    "sourceSize": { "w": 122, "h": 118 },
+    "duration": 200
+   },
+   {
+    "filename": "oncto 2.ase",
+    "frame": { "x": 248, "y": 0, "w": 124, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 122, "h": 118 },
+    "sourceSize": { "w": 122, "h": 118 },
+    "duration": 200
+   },
+   {
+    "filename": "oncto 3.ase",
+    "frame": { "x": 0, "y": 120, "w": 124, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 122, "h": 118 },
+    "sourceSize": { "w": 122, "h": 118 },
+    "duration": 100
+   },
+   {
+    "filename": "oncto 4.ase",
+    "frame": { "x": 124, "y": 120, "w": 124, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 122, "h": 118 },
+    "sourceSize": { "w": 122, "h": 118 },
+    "duration": 100
+   },
+   {
+    "filename": "oncto 5.ase",
+    "frame": { "x": 248, "y": 120, "w": 124, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 122, "h": 118 },
+    "sourceSize": { "w": 122, "h": 118 },
+    "duration": 100
+   },
+   {
+    "filename": "oncto 6.ase",
+    "frame": { "x": 0, "y": 0, "w": 124, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 122, "h": 118 },
+    "sourceSize": { "w": 122, "h": 118 },
+    "duration": 150
+   },
+   {
+    "filename": "oncto 7.ase",
+    "frame": { "x": 0, "y": 240, "w": 124, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 122, "h": 118 },
+    "sourceSize": { "w": 122, "h": 118 },
+    "duration": 50
+   },
+   {
+    "filename": "oncto 8.ase",
+    "frame": { "x": 124, "y": 240, "w": 124, "h": 120 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 122, "h": 118 },
+    "sourceSize": { "w": 122, "h": 118 },
+    "duration": 500
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.3-beta6-x64",
+  "image": "oncto.png",
+  "format": "RGBA8888",
+  "size": { "w": 372, "h": 360 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "idle", "from": 0, "to": 2, "direction": "pingpong", "color": "#000000ff" },
+   { "name": "spin", "from": 3, "to": 5, "direction": "forward", "color": "#000000ff" },
+   { "name": "up", "from": 6, "to": 8, "direction": "forward", "color": "#000000ff", "data": "after=idle" }
+  ],
+  "layers": [
+   { "name": "Layer 4", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 3", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

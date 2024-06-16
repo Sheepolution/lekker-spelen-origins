@@ -1,0 +1,79 @@
+{ "frames": [
+   {
+    "filename": "pier 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 135, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 133, "h": 96 },
+    "sourceSize": { "w": 133, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "pier 1.ase",
+    "frame": { "x": 135, "y": 0, "w": 135, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 133, "h": 96 },
+    "sourceSize": { "w": 133, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "pier 2.ase",
+    "frame": { "x": 270, "y": 0, "w": 135, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 133, "h": 96 },
+    "sourceSize": { "w": 133, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "pier 3.ase",
+    "frame": { "x": 0, "y": 98, "w": 135, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 133, "h": 96 },
+    "sourceSize": { "w": 133, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "pier 4.ase",
+    "frame": { "x": 135, "y": 98, "w": 135, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 133, "h": 96 },
+    "sourceSize": { "w": 133, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "pier 5.ase",
+    "frame": { "x": 270, "y": 98, "w": 135, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 133, "h": 96 },
+    "sourceSize": { "w": 133, "h": 96 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.2-x64",
+  "image": "pier.png",
+  "format": "RGBA8888",
+  "size": { "w": 405, "h": 196 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "default", "from": 0, "to": 0, "direction": "forward", "color": "#000000ff" },
+   { "name": "meh", "from": 1, "to": 1, "direction": "forward", "color": "#000000ff" },
+   { "name": "angry", "from": 2, "to": 2, "direction": "forward", "color": "#000000ff" },
+   { "name": "angry_smile", "from": 3, "to": 3, "direction": "forward", "color": "#000000ff" },
+   { "name": "dead", "from": 4, "to": 4, "direction": "forward", "color": "#000000ff" },
+   { "name": "dead_smile", "from": 5, "to": 5, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 2", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

@@ -1,0 +1,73 @@
+{ "frames": [
+   {
+    "filename": "peter 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 103, "h": 38 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 103, "h": 38 },
+    "sourceSize": { "w": 103, "h": 38 },
+    "duration": 75
+   },
+   {
+    "filename": "peter 1.ase",
+    "frame": { "x": 103, "y": 0, "w": 103, "h": 38 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 103, "h": 38 },
+    "sourceSize": { "w": 103, "h": 38 },
+    "duration": 75
+   },
+   {
+    "filename": "peter 2.ase",
+    "frame": { "x": 206, "y": 0, "w": 103, "h": 38 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 103, "h": 38 },
+    "sourceSize": { "w": 103, "h": 38 },
+    "duration": 75
+   },
+   {
+    "filename": "peter 3.ase",
+    "frame": { "x": 0, "y": 38, "w": 103, "h": 38 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 103, "h": 38 },
+    "sourceSize": { "w": 103, "h": 38 },
+    "duration": 75
+   },
+   {
+    "filename": "peter 4.ase",
+    "frame": { "x": 103, "y": 38, "w": 103, "h": 38 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 103, "h": 38 },
+    "sourceSize": { "w": 103, "h": 38 },
+    "duration": 75
+   },
+   {
+    "filename": "peter 5.ase",
+    "frame": { "x": 206, "y": 38, "w": 103, "h": 38 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 103, "h": 38 },
+    "sourceSize": { "w": 103, "h": 38 },
+    "duration": 75
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.3-beta6-x64",
+  "image": "peter.png",
+  "format": "I8",
+  "size": { "w": 309, "h": 76 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "run", "from": 0, "to": 5, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

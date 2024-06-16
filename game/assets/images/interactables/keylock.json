@@ -1,0 +1,99 @@
+{ "frames": [
+   {
+    "filename": "keylock 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 35, "h": 53 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 33, "h": 51 },
+    "sourceSize": { "w": 33, "h": 51 },
+    "duration": 100
+   },
+   {
+    "filename": "keylock 1.ase",
+    "frame": { "x": 35, "y": 0, "w": 35, "h": 53 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 33, "h": 51 },
+    "sourceSize": { "w": 33, "h": 51 },
+    "duration": 100
+   },
+   {
+    "filename": "keylock 2.ase",
+    "frame": { "x": 70, "y": 0, "w": 35, "h": 53 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 33, "h": 51 },
+    "sourceSize": { "w": 33, "h": 51 },
+    "duration": 100
+   },
+   {
+    "filename": "keylock 3.ase",
+    "frame": { "x": 105, "y": 0, "w": 35, "h": 53 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 33, "h": 51 },
+    "sourceSize": { "w": 33, "h": 51 },
+    "duration": 100
+   },
+   {
+    "filename": "keylock 4.ase",
+    "frame": { "x": 140, "y": 0, "w": 35, "h": 53 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 33, "h": 51 },
+    "sourceSize": { "w": 33, "h": 51 },
+    "duration": 100
+   },
+   {
+    "filename": "keylock 5.ase",
+    "frame": { "x": 175, "y": 0, "w": 35, "h": 53 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 33, "h": 51 },
+    "sourceSize": { "w": 33, "h": 51 },
+    "duration": 100
+   },
+   {
+    "filename": "keylock 6.ase",
+    "frame": { "x": 210, "y": 0, "w": 35, "h": 53 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 33, "h": 51 },
+    "sourceSize": { "w": 33, "h": 51 },
+    "duration": 100
+   },
+   {
+    "filename": "keylock 7.ase",
+    "frame": { "x": 245, "y": 0, "w": 35, "h": 53 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 33, "h": 51 },
+    "sourceSize": { "w": 33, "h": 51 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.3-beta6-x64",
+  "image": "keylock.png",
+  "format": "RGBA8888",
+  "size": { "w": 280, "h": 53 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "off_yellow", "from": 0, "to": 0, "direction": "forward", "color": "#000000ff" },
+   { "name": "off_green", "from": 1, "to": 1, "direction": "forward", "color": "#000000ff" },
+   { "name": "off_blue", "from": 2, "to": 2, "direction": "forward", "color": "#000000ff" },
+   { "name": "off_red", "from": 3, "to": 3, "direction": "forward", "color": "#000000ff" },
+   { "name": "on_yellow", "from": 4, "to": 4, "direction": "forward", "color": "#000000ff" },
+   { "name": "on_green", "from": 5, "to": 5, "direction": "forward", "color": "#000000ff" },
+   { "name": "on_blue", "from": 6, "to": 6, "direction": "forward", "color": "#000000ff" },
+   { "name": "on_red", "from": 7, "to": 7, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 2", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

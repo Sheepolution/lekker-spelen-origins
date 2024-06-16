@@ -1,0 +1,109 @@
+{ "frames": [
+   {
+    "filename": "centaur 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 451, "h": 441 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 449, "h": 439 },
+    "sourceSize": { "w": 449, "h": 439 },
+    "duration": 100
+   },
+   {
+    "filename": "centaur 1.ase",
+    "frame": { "x": 451, "y": 0, "w": 451, "h": 441 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 449, "h": 439 },
+    "sourceSize": { "w": 449, "h": 439 },
+    "duration": 100
+   },
+   {
+    "filename": "centaur 2.ase",
+    "frame": { "x": 902, "y": 0, "w": 451, "h": 441 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 449, "h": 439 },
+    "sourceSize": { "w": 449, "h": 439 },
+    "duration": 100
+   },
+   {
+    "filename": "centaur 3.ase",
+    "frame": { "x": 0, "y": 441, "w": 451, "h": 441 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 449, "h": 439 },
+    "sourceSize": { "w": 449, "h": 439 },
+    "duration": 80
+   },
+   {
+    "filename": "centaur 4.ase",
+    "frame": { "x": 451, "y": 441, "w": 451, "h": 441 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 449, "h": 439 },
+    "sourceSize": { "w": 449, "h": 439 },
+    "duration": 80
+   },
+   {
+    "filename": "centaur 5.ase",
+    "frame": { "x": 902, "y": 441, "w": 451, "h": 441 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 449, "h": 439 },
+    "sourceSize": { "w": 449, "h": 439 },
+    "duration": 100
+   },
+   {
+    "filename": "centaur 6.ase",
+    "frame": { "x": 0, "y": 882, "w": 451, "h": 441 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 449, "h": 439 },
+    "sourceSize": { "w": 449, "h": 439 },
+    "duration": 80
+   },
+   {
+    "filename": "centaur 7.ase",
+    "frame": { "x": 451, "y": 882, "w": 451, "h": 441 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 449, "h": 439 },
+    "sourceSize": { "w": 449, "h": 439 },
+    "duration": 80
+   },
+   {
+    "filename": "centaur 8.ase",
+    "frame": { "x": 902, "y": 882, "w": 451, "h": 441 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 449, "h": 439 },
+    "sourceSize": { "w": 449, "h": 439 },
+    "duration": 80
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.2-x64",
+  "image": "centaur.png",
+  "format": "RGBA8888",
+  "size": { "w": 1353, "h": 1323 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "black", "from": 0, "to": 0, "direction": "forward", "color": "#000000ff" },
+   { "name": "idle", "from": 1, "to": 1, "direction": "forward", "color": "#000000ff" },
+   { "name": "run", "from": 2, "to": 7, "direction": "forward", "color": "#000000ff" },
+   { "name": "dead", "from": 8, "to": 8, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "Layer 6", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 10", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 14", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 11", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 9", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 8", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 13", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

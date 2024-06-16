@@ -1,0 +1,396 @@
+{ "frames": [
+   {
+    "filename": "peter_on_timon 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 100
+   },
+   {
+    "filename": "peter_on_timon 1.ase",
+    "frame": { "x": 122, "y": 0, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 100
+   },
+   {
+    "filename": "peter_on_timon 2.ase",
+    "frame": { "x": 244, "y": 0, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 100
+   },
+   {
+    "filename": "peter_on_timon 3.ase",
+    "frame": { "x": 366, "y": 0, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 100
+   },
+   {
+    "filename": "peter_on_timon 4.ase",
+    "frame": { "x": 488, "y": 0, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 100
+   },
+   {
+    "filename": "peter_on_timon 5.ase",
+    "frame": { "x": 366, "y": 0, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 100
+   },
+   {
+    "filename": "peter_on_timon 6.ase",
+    "frame": { "x": 244, "y": 0, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 100
+   },
+   {
+    "filename": "peter_on_timon 7.ase",
+    "frame": { "x": 122, "y": 0, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 100
+   },
+   {
+    "filename": "peter_on_timon 8.ase",
+    "frame": { "x": 610, "y": 0, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 83
+   },
+   {
+    "filename": "peter_on_timon 9.ase",
+    "frame": { "x": 732, "y": 0, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 83
+   },
+   {
+    "filename": "peter_on_timon 10.ase",
+    "frame": { "x": 0, "y": 91, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 83
+   },
+   {
+    "filename": "peter_on_timon 11.ase",
+    "frame": { "x": 122, "y": 91, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 83
+   },
+   {
+    "filename": "peter_on_timon 12.ase",
+    "frame": { "x": 244, "y": 91, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 83
+   },
+   {
+    "filename": "peter_on_timon 13.ase",
+    "frame": { "x": 366, "y": 91, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 83
+   },
+   {
+    "filename": "peter_on_timon 14.ase",
+    "frame": { "x": 488, "y": 91, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 83
+   },
+   {
+    "filename": "peter_on_timon 15.ase",
+    "frame": { "x": 610, "y": 91, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 83
+   },
+   {
+    "filename": "peter_on_timon 16.ase",
+    "frame": { "x": 732, "y": 91, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 120
+   },
+   {
+    "filename": "peter_on_timon 17.ase",
+    "frame": { "x": 0, "y": 182, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 120
+   },
+   {
+    "filename": "peter_on_timon 18.ase",
+    "frame": { "x": 122, "y": 182, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 120
+   },
+   {
+    "filename": "peter_on_timon 19.ase",
+    "frame": { "x": 244, "y": 182, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 120
+   },
+   {
+    "filename": "peter_on_timon 20.ase",
+    "frame": { "x": 366, "y": 182, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 120
+   },
+   {
+    "filename": "peter_on_timon 21.ase",
+    "frame": { "x": 488, "y": 182, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 120
+   },
+   {
+    "filename": "peter_on_timon 22.ase",
+    "frame": { "x": 610, "y": 182, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 120
+   },
+   {
+    "filename": "peter_on_timon 23.ase",
+    "frame": { "x": 732, "y": 182, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 120
+   },
+   {
+    "filename": "peter_on_timon 24.ase",
+    "frame": { "x": 0, "y": 273, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 100
+   },
+   {
+    "filename": "peter_on_timon 25.ase",
+    "frame": { "x": 122, "y": 273, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 100
+   },
+   {
+    "filename": "peter_on_timon 26.ase",
+    "frame": { "x": 244, "y": 273, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 100
+   },
+   {
+    "filename": "peter_on_timon 27.ase",
+    "frame": { "x": 244, "y": 273, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 100
+   },
+   {
+    "filename": "peter_on_timon 28.ase",
+    "frame": { "x": 366, "y": 273, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 100
+   },
+   {
+    "filename": "peter_on_timon 29.ase",
+    "frame": { "x": 488, "y": 273, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 100
+   },
+   {
+    "filename": "peter_on_timon 30.ase",
+    "frame": { "x": 610, "y": 273, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 85
+   },
+   {
+    "filename": "peter_on_timon 31.ase",
+    "frame": { "x": 732, "y": 273, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 85
+   },
+   {
+    "filename": "peter_on_timon 32.ase",
+    "frame": { "x": 0, "y": 364, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 85
+   },
+   {
+    "filename": "peter_on_timon 33.ase",
+    "frame": { "x": 122, "y": 364, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 85
+   },
+   {
+    "filename": "peter_on_timon 34.ase",
+    "frame": { "x": 244, "y": 364, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 85
+   },
+   {
+    "filename": "peter_on_timon 35.ase",
+    "frame": { "x": 366, "y": 364, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 85
+   },
+   {
+    "filename": "peter_on_timon 36.ase",
+    "frame": { "x": 488, "y": 364, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 85
+   },
+   {
+    "filename": "peter_on_timon 37.ase",
+    "frame": { "x": 610, "y": 364, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 50
+   },
+   {
+    "filename": "peter_on_timon 38.ase",
+    "frame": { "x": 732, "y": 364, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 100
+   },
+   {
+    "filename": "peter_on_timon 39.ase",
+    "frame": { "x": 0, "y": 455, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 100
+   },
+   {
+    "filename": "peter_on_timon 40.ase",
+    "frame": { "x": 122, "y": 455, "w": 122, "h": 91 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 120, "h": 89 },
+    "sourceSize": { "w": 120, "h": 89 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.6-x64",
+  "image": "peter_on_timon.png",
+  "format": "RGBA8888",
+  "size": { "w": 854, "h": 546 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "idle", "from": 0, "to": 7, "direction": "forward", "color": "#000000ff" },
+   { "name": "walk", "from": 8, "to": 15, "direction": "forward", "color": "#000000ff" },
+   { "name": "push", "from": 16, "to": 23, "direction": "forward", "color": "#000000ff" },
+   { "name": "jump", "from": 24, "to": 26, "direction": "forward", "color": "#000000ff", "data": "once=true" },
+   { "name": "fall", "from": 27, "to": 29, "direction": "forward", "color": "#000000ff", "data": "once=true" },
+   { "name": "run", "from": 30, "to": 36, "direction": "forward", "color": "#000000ff" },
+   { "name": "crouch", "from": 37, "to": 40, "direction": "forward", "color": "#000000ff", "data": "once=true" }
+  ],
+  "layers": [
+   { "name": "Layer 6", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 7", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 8", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

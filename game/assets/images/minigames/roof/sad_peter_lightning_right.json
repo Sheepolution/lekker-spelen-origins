@@ -1,0 +1,209 @@
+{ "frames": [
+   {
+    "filename": "sad_peter_lightning_right 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 433, "h": 255 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 431, "h": 253 },
+    "sourceSize": { "w": 431, "h": 253 },
+    "duration": 100
+   },
+   {
+    "filename": "sad_peter_lightning_right 1.ase",
+    "frame": { "x": 433, "y": 0, "w": 433, "h": 255 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 431, "h": 253 },
+    "sourceSize": { "w": 431, "h": 253 },
+    "duration": 100
+   },
+   {
+    "filename": "sad_peter_lightning_right 2.ase",
+    "frame": { "x": 866, "y": 0, "w": 433, "h": 255 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 431, "h": 253 },
+    "sourceSize": { "w": 431, "h": 253 },
+    "duration": 100
+   },
+   {
+    "filename": "sad_peter_lightning_right 3.ase",
+    "frame": { "x": 1299, "y": 0, "w": 433, "h": 255 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 431, "h": 253 },
+    "sourceSize": { "w": 431, "h": 253 },
+    "duration": 100
+   },
+   {
+    "filename": "sad_peter_lightning_right 4.ase",
+    "frame": { "x": 1732, "y": 0, "w": 433, "h": 255 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 431, "h": 253 },
+    "sourceSize": { "w": 431, "h": 253 },
+    "duration": 100
+   },
+   {
+    "filename": "sad_peter_lightning_right 5.ase",
+    "frame": { "x": 0, "y": 255, "w": 433, "h": 255 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 431, "h": 253 },
+    "sourceSize": { "w": 431, "h": 253 },
+    "duration": 100
+   },
+   {
+    "filename": "sad_peter_lightning_right 6.ase",
+    "frame": { "x": 433, "y": 255, "w": 433, "h": 255 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 431, "h": 253 },
+    "sourceSize": { "w": 431, "h": 253 },
+    "duration": 100
+   },
+   {
+    "filename": "sad_peter_lightning_right 7.ase",
+    "frame": { "x": 866, "y": 255, "w": 433, "h": 255 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 431, "h": 253 },
+    "sourceSize": { "w": 431, "h": 253 },
+    "duration": 100
+   },
+   {
+    "filename": "sad_peter_lightning_right 8.ase",
+    "frame": { "x": 1299, "y": 255, "w": 433, "h": 255 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 431, "h": 253 },
+    "sourceSize": { "w": 431, "h": 253 },
+    "duration": 100
+   },
+   {
+    "filename": "sad_peter_lightning_right 9.ase",
+    "frame": { "x": 1732, "y": 255, "w": 433, "h": 255 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 431, "h": 253 },
+    "sourceSize": { "w": 431, "h": 253 },
+    "duration": 100
+   },
+   {
+    "filename": "sad_peter_lightning_right 10.ase",
+    "frame": { "x": 0, "y": 510, "w": 433, "h": 255 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 431, "h": 253 },
+    "sourceSize": { "w": 431, "h": 253 },
+    "duration": 100
+   },
+   {
+    "filename": "sad_peter_lightning_right 11.ase",
+    "frame": { "x": 433, "y": 510, "w": 433, "h": 255 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 431, "h": 253 },
+    "sourceSize": { "w": 431, "h": 253 },
+    "duration": 100
+   },
+   {
+    "filename": "sad_peter_lightning_right 12.ase",
+    "frame": { "x": 866, "y": 510, "w": 433, "h": 255 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 431, "h": 253 },
+    "sourceSize": { "w": 431, "h": 253 },
+    "duration": 100
+   },
+   {
+    "filename": "sad_peter_lightning_right 13.ase",
+    "frame": { "x": 1299, "y": 510, "w": 433, "h": 255 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 431, "h": 253 },
+    "sourceSize": { "w": 431, "h": 253 },
+    "duration": 100
+   },
+   {
+    "filename": "sad_peter_lightning_right 14.ase",
+    "frame": { "x": 1732, "y": 510, "w": 433, "h": 255 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 431, "h": 253 },
+    "sourceSize": { "w": 431, "h": 253 },
+    "duration": 100
+   },
+   {
+    "filename": "sad_peter_lightning_right 15.ase",
+    "frame": { "x": 0, "y": 765, "w": 433, "h": 255 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 431, "h": 253 },
+    "sourceSize": { "w": 431, "h": 253 },
+    "duration": 100
+   },
+   {
+    "filename": "sad_peter_lightning_right 16.ase",
+    "frame": { "x": 433, "y": 765, "w": 433, "h": 255 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 431, "h": 253 },
+    "sourceSize": { "w": 431, "h": 253 },
+    "duration": 100
+   },
+   {
+    "filename": "sad_peter_lightning_right 17.ase",
+    "frame": { "x": 866, "y": 765, "w": 433, "h": 255 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 431, "h": 253 },
+    "sourceSize": { "w": 431, "h": 253 },
+    "duration": 100
+   },
+   {
+    "filename": "sad_peter_lightning_right 18.ase",
+    "frame": { "x": 1299, "y": 765, "w": 433, "h": 255 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 431, "h": 253 },
+    "sourceSize": { "w": 431, "h": 253 },
+    "duration": 500
+   },
+   {
+    "filename": "sad_peter_lightning_right 19.ase",
+    "frame": { "x": 1732, "y": 765, "w": 433, "h": 255 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 431, "h": 253 },
+    "sourceSize": { "w": 431, "h": 253 },
+    "duration": 100
+   },
+   {
+    "filename": "sad_peter_lightning_right 20.ase",
+    "frame": { "x": 0, "y": 1020, "w": 433, "h": 255 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 431, "h": 253 },
+    "sourceSize": { "w": 431, "h": 253 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.3-beta6-x64",
+  "image": "sad_peter_lightning_right.png",
+  "format": "RGBA8888",
+  "size": { "w": 2165, "h": 1275 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "idle", "from": 0, "to": 0, "direction": "forward", "color": "#000000ff" },
+   { "name": "cry", "from": 1, "to": 20, "direction": "forward", "color": "#000000ff", "data": "after=idle" }
+  ],
+  "layers": [
+   { "name": "Layer", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

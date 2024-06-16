@@ -1,0 +1,38 @@
+{ "frames": [
+   {
+    "filename": "coin 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 35, "h": 35 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 35, "h": 35 },
+    "sourceSize": { "w": 35, "h": 35 },
+    "duration": 100
+   },
+   {
+    "filename": "coin 1.ase",
+    "frame": { "x": 35, "y": 0, "w": 35, "h": 35 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 35, "h": 35 },
+    "sourceSize": { "w": 35, "h": 35 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.3-beta6-x64",
+  "image": "coin.png",
+  "format": "RGBA8888",
+  "size": { "w": 70, "h": 35 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "red", "from": 0, "to": 0, "direction": "forward", "color": "#000000ff" },
+   { "name": "blue", "from": 1, "to": 1, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

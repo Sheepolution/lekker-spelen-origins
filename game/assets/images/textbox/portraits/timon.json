@@ -1,0 +1,745 @@
+{ "frames": [
+   {
+    "filename": "timon 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 1.ase",
+    "frame": { "x": 112, "y": 0, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 2.ase",
+    "frame": { "x": 224, "y": 0, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 3.ase",
+    "frame": { "x": 336, "y": 0, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 4.ase",
+    "frame": { "x": 448, "y": 0, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 5.ase",
+    "frame": { "x": 560, "y": 0, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 6.ase",
+    "frame": { "x": 672, "y": 0, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 7.ase",
+    "frame": { "x": 784, "y": 0, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 8.ase",
+    "frame": { "x": 896, "y": 0, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 9.ase",
+    "frame": { "x": 0, "y": 98, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 10.ase",
+    "frame": { "x": 112, "y": 98, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 11.ase",
+    "frame": { "x": 224, "y": 98, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 12.ase",
+    "frame": { "x": 336, "y": 98, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 13.ase",
+    "frame": { "x": 448, "y": 98, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 14.ase",
+    "frame": { "x": 560, "y": 98, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 15.ase",
+    "frame": { "x": 672, "y": 98, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 16.ase",
+    "frame": { "x": 784, "y": 98, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 17.ase",
+    "frame": { "x": 896, "y": 98, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 18.ase",
+    "frame": { "x": 0, "y": 196, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 19.ase",
+    "frame": { "x": 112, "y": 196, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 20.ase",
+    "frame": { "x": 224, "y": 196, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 21.ase",
+    "frame": { "x": 336, "y": 196, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 22.ase",
+    "frame": { "x": 448, "y": 196, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 23.ase",
+    "frame": { "x": 560, "y": 196, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 24.ase",
+    "frame": { "x": 672, "y": 196, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 25.ase",
+    "frame": { "x": 784, "y": 196, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 26.ase",
+    "frame": { "x": 896, "y": 196, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 27.ase",
+    "frame": { "x": 0, "y": 294, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 28.ase",
+    "frame": { "x": 112, "y": 294, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 29.ase",
+    "frame": { "x": 224, "y": 294, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 30.ase",
+    "frame": { "x": 336, "y": 294, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 31.ase",
+    "frame": { "x": 448, "y": 294, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 32.ase",
+    "frame": { "x": 560, "y": 294, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 33.ase",
+    "frame": { "x": 672, "y": 294, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 34.ase",
+    "frame": { "x": 784, "y": 294, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 35.ase",
+    "frame": { "x": 896, "y": 294, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 36.ase",
+    "frame": { "x": 0, "y": 392, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 37.ase",
+    "frame": { "x": 112, "y": 392, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 38.ase",
+    "frame": { "x": 224, "y": 392, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 39.ase",
+    "frame": { "x": 336, "y": 392, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 40.ase",
+    "frame": { "x": 448, "y": 392, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 41.ase",
+    "frame": { "x": 560, "y": 392, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 42.ase",
+    "frame": { "x": 672, "y": 392, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 43.ase",
+    "frame": { "x": 784, "y": 392, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 44.ase",
+    "frame": { "x": 896, "y": 392, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 45.ase",
+    "frame": { "x": 0, "y": 490, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 46.ase",
+    "frame": { "x": 112, "y": 490, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 47.ase",
+    "frame": { "x": 224, "y": 490, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 48.ase",
+    "frame": { "x": 336, "y": 490, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 49.ase",
+    "frame": { "x": 448, "y": 490, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 50.ase",
+    "frame": { "x": 560, "y": 490, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 51.ase",
+    "frame": { "x": 672, "y": 490, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 52.ase",
+    "frame": { "x": 784, "y": 490, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 53.ase",
+    "frame": { "x": 896, "y": 490, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 54.ase",
+    "frame": { "x": 0, "y": 588, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 750
+   },
+   {
+    "filename": "timon 55.ase",
+    "frame": { "x": 112, "y": 588, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 750
+   },
+   {
+    "filename": "timon 56.ase",
+    "frame": { "x": 0, "y": 588, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 750
+   },
+   {
+    "filename": "timon 57.ase",
+    "frame": { "x": 224, "y": 588, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 50
+   },
+   {
+    "filename": "timon 58.ase",
+    "frame": { "x": 112, "y": 588, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 750
+   },
+   {
+    "filename": "timon 59.ase",
+    "frame": { "x": 336, "y": 588, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 50
+   },
+   {
+    "filename": "timon 60.ase",
+    "frame": { "x": 448, "y": 588, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 50
+   },
+   {
+    "filename": "timon 61.ase",
+    "frame": { "x": 560, "y": 588, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 50
+   },
+   {
+    "filename": "timon 62.ase",
+    "frame": { "x": 672, "y": 588, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 63.ase",
+    "frame": { "x": 784, "y": 588, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 64.ase",
+    "frame": { "x": 896, "y": 588, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 65.ase",
+    "frame": { "x": 0, "y": 686, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 66.ase",
+    "frame": { "x": 112, "y": 686, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 67.ase",
+    "frame": { "x": 224, "y": 686, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 68.ase",
+    "frame": { "x": 336, "y": 686, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 69.ase",
+    "frame": { "x": 448, "y": 686, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 70.ase",
+    "frame": { "x": 560, "y": 686, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 71.ase",
+    "frame": { "x": 672, "y": 686, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   },
+   {
+    "filename": "timon 72.ase",
+    "frame": { "x": 784, "y": 686, "w": 112, "h": 98 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 110, "h": 96 },
+    "sourceSize": { "w": 110, "h": 96 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.3.6-x64",
+  "image": "timon.png",
+  "format": "RGBA8888",
+  "size": { "w": 1008, "h": 784 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "default", "from": 0, "to": 0, "direction": "forward", "color": "#000000ff" },
+   { "name": "questioning", "from": 1, "to": 1, "direction": "forward", "color": "#000000ff" },
+   { "name": "sad", "from": 2, "to": 2, "direction": "forward", "color": "#000000ff" },
+   { "name": "crying", "from": 3, "to": 3, "direction": "forward", "color": "#000000ff" },
+   { "name": "mad", "from": 4, "to": 4, "direction": "forward", "color": "#000000ff" },
+   { "name": "eyes_closed", "from": 5, "to": 5, "direction": "forward", "color": "#000000ff" },
+   { "name": "frustrated", "from": 6, "to": 6, "direction": "forward", "color": "#000000ff" },
+   { "name": "wink", "from": 7, "to": 7, "direction": "forward", "color": "#000000ff" },
+   { "name": "wink_concerned", "from": 8, "to": 8, "direction": "forward", "color": "#000000ff" },
+   { "name": "blush", "from": 9, "to": 9, "direction": "forward", "color": "#000000ff" },
+   { "name": "sarcastic", "from": 10, "to": 10, "direction": "forward", "color": "#000000ff" },
+   { "name": "sarcastic_sad", "from": 11, "to": 11, "direction": "forward", "color": "#000000ff" },
+   { "name": "sarcastic_mad", "from": 12, "to": 12, "direction": "forward", "color": "#000000ff" },
+   { "name": "sarcastic_extreme", "from": 13, "to": 13, "direction": "forward", "color": "#000000ff" },
+   { "name": "sarcastic_extreme_mad", "from": 14, "to": 14, "direction": "forward", "color": "#000000ff" },
+   { "name": "angry", "from": 15, "to": 15, "direction": "forward", "color": "#000000ff" },
+   { "name": "angry_teeth", "from": 16, "to": 16, "direction": "forward", "color": "#000000ff" },
+   { "name": "furious", "from": 17, "to": 17, "direction": "forward", "color": "#000000ff" },
+   { "name": "sobbing", "from": 18, "to": 18, "direction": "forward", "color": "#000000ff" },
+   { "name": "sobbing_slightly", "from": 19, "to": 19, "direction": "forward", "color": "#000000ff" },
+   { "name": "sobbing_none", "from": 20, "to": 20, "direction": "forward", "color": "#000000ff" },
+   { "name": "happy_tongue", "from": 21, "to": 21, "direction": "forward", "color": "#000000ff" },
+   { "name": "proud", "from": 22, "to": 22, "direction": "forward", "color": "#000000ff" },
+   { "name": "crying_happy", "from": 23, "to": 23, "direction": "forward", "color": "#000000ff" },
+   { "name": "determined", "from": 24, "to": 24, "direction": "forward", "color": "#000000ff" },
+   { "name": "satisfied", "from": 25, "to": 25, "direction": "forward", "color": "#000000ff" },
+   { "name": "happy_wink", "from": 26, "to": 26, "direction": "forward", "color": "#000000ff" },
+   { "name": "relaxed", "from": 27, "to": 27, "direction": "forward", "color": "#000000ff" },
+   { "name": "happy_blush", "from": 28, "to": 28, "direction": "forward", "color": "#000000ff" },
+   { "name": "happy_questioning", "from": 29, "to": 29, "direction": "forward", "color": "#000000ff" },
+   { "name": "laughing", "from": 30, "to": 30, "direction": "forward", "color": "#000000ff" },
+   { "name": "laughing_lines", "from": 31, "to": 31, "direction": "forward", "color": "#000000ff" },
+   { "name": "laughing_tears", "from": 32, "to": 32, "direction": "forward", "color": "#000000ff" },
+   { "name": "laughing_tears_lines", "from": 33, "to": 33, "direction": "forward", "color": "#000000ff" },
+   { "name": "confused", "from": 34, "to": 34, "direction": "forward", "color": "#000000ff" },
+   { "name": "confused_tongue", "from": 35, "to": 35, "direction": "forward", "color": "#000000ff" },
+   { "name": "confused_concerned", "from": 36, "to": 36, "direction": "forward", "color": "#000000ff" },
+   { "name": "confused_mad", "from": 37, "to": 37, "direction": "forward", "color": "#000000ff" },
+   { "name": "confused_mad_tongue", "from": 38, "to": 38, "direction": "forward", "color": "#000000ff" },
+   { "name": "confused_sarcastic", "from": 39, "to": 39, "direction": "forward", "color": "#000000ff" },
+   { "name": "tired", "from": 40, "to": 40, "direction": "forward", "color": "#000000ff" },
+   { "name": "tired_mad", "from": 41, "to": 41, "direction": "forward", "color": "#000000ff" },
+   { "name": "scared", "from": 42, "to": 42, "direction": "forward", "color": "#000000ff" },
+   { "name": "scared_eyes", "from": 43, "to": 43, "direction": "forward", "color": "#000000ff" },
+   { "name": "scared_sweat", "from": 44, "to": 44, "direction": "forward", "color": "#000000ff" },
+   { "name": "scared_serious", "from": 45, "to": 45, "direction": "forward", "color": "#000000ff" },
+   { "name": "scared_serious_eyes", "from": 46, "to": 46, "direction": "forward", "color": "#000000ff" },
+   { "name": "scared_serious_sweat", "from": 47, "to": 47, "direction": "forward", "color": "#000000ff" },
+   { "name": "shocked", "from": 48, "to": 48, "direction": "forward", "color": "#000000ff" },
+   { "name": "shocked_mad", "from": 49, "to": 49, "direction": "forward", "color": "#000000ff" },
+   { "name": "shocked_surprised", "from": 50, "to": 50, "direction": "forward", "color": "#000000ff" },
+   { "name": "shocked_vines", "from": 51, "to": 51, "direction": "forward", "color": "#000000ff" },
+   { "name": "shocked_ep", "from": 52, "to": 52, "direction": "forward", "color": "#000000ff" },
+   { "name": "shocked_ep_vines", "from": 53, "to": 53, "direction": "forward", "color": "#000000ff" },
+   { "name": "frightened", "from": 54, "to": 54, "direction": "forward", "color": "#000000ff" },
+   { "name": "frightened_right", "from": 55, "to": 55, "direction": "forward", "color": "#000000ff" },
+   { "name": "frightened_moving", "from": 56, "to": 59, "direction": "forward", "color": "#000000ff" },
+   { "name": "frightened_mad_left", "from": 60, "to": 60, "direction": "forward", "color": "#000000ff" },
+   { "name": "frightened_mad_right", "from": 61, "to": 61, "direction": "forward", "color": "#000000ff" },
+   { "name": "smug", "from": 62, "to": 62, "direction": "forward", "color": "#000000ff" },
+   { "name": "happy", "from": 63, "to": 63, "direction": "forward", "color": "#000000ff" },
+   { "name": "suspicious", "from": 64, "to": 64, "direction": "forward", "color": "#000000ff" },
+   { "name": "smug_confident", "from": 65, "to": 65, "direction": "forward", "color": "#000000ff" },
+   { "name": "smug_eyes_closed", "from": 66, "to": 66, "direction": "forward", "color": "#000000ff" },
+   { "name": "smug_wink", "from": 67, "to": 67, "direction": "forward", "color": "#000000ff" },
+   { "name": "gross", "from": 68, "to": 68, "direction": "forward", "color": "#000000ff" },
+   { "name": "gross_scared", "from": 69, "to": 69, "direction": "forward", "color": "#000000ff" },
+   { "name": "sicko", "from": 70, "to": 70, "direction": "forward", "color": "#000000ff" },
+   { "name": "nauseous", "from": 71, "to": 71, "direction": "forward", "color": "#000000ff" },
+   { "name": "sick", "from": 72, "to": 72, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "Layer 3", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

@@ -1,0 +1,114 @@
+{ "frames": [
+   {
+    "filename": "monitor 0.ase",
+    "frame": { "x": 0, "y": 0, "w": 83, "h": 197 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 81, "h": 195 },
+    "sourceSize": { "w": 81, "h": 195 },
+    "duration": 100
+   },
+   {
+    "filename": "monitor 1.ase",
+    "frame": { "x": 83, "y": 0, "w": 83, "h": 197 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 81, "h": 195 },
+    "sourceSize": { "w": 81, "h": 195 },
+    "duration": 100
+   },
+   {
+    "filename": "monitor 2.ase",
+    "frame": { "x": 166, "y": 0, "w": 83, "h": 197 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 81, "h": 195 },
+    "sourceSize": { "w": 81, "h": 195 },
+    "duration": 100
+   },
+   {
+    "filename": "monitor 3.ase",
+    "frame": { "x": 249, "y": 0, "w": 83, "h": 197 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 81, "h": 195 },
+    "sourceSize": { "w": 81, "h": 195 },
+    "duration": 100
+   },
+   {
+    "filename": "monitor 4.ase",
+    "frame": { "x": 0, "y": 197, "w": 83, "h": 197 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 81, "h": 195 },
+    "sourceSize": { "w": 81, "h": 195 },
+    "duration": 100
+   },
+   {
+    "filename": "monitor 5.ase",
+    "frame": { "x": 83, "y": 197, "w": 83, "h": 197 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 81, "h": 195 },
+    "sourceSize": { "w": 81, "h": 195 },
+    "duration": 100
+   },
+   {
+    "filename": "monitor 6.ase",
+    "frame": { "x": 166, "y": 197, "w": 83, "h": 197 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 81, "h": 195 },
+    "sourceSize": { "w": 81, "h": 195 },
+    "duration": 100
+   },
+   {
+    "filename": "monitor 7.ase",
+    "frame": { "x": 249, "y": 197, "w": 83, "h": 197 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 81, "h": 195 },
+    "sourceSize": { "w": 81, "h": 195 },
+    "duration": 100
+   },
+   {
+    "filename": "monitor 8.ase",
+    "frame": { "x": 0, "y": 394, "w": 83, "h": 197 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 81, "h": 195 },
+    "sourceSize": { "w": 81, "h": 195 },
+    "duration": 100
+   },
+   {
+    "filename": "monitor 9.ase",
+    "frame": { "x": 83, "y": 394, "w": 83, "h": 197 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 81, "h": 195 },
+    "sourceSize": { "w": 81, "h": 195 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.3-beta6-x64",
+  "image": "monitor.png",
+  "format": "RGBA8888",
+  "size": { "w": 332, "h": 591 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "idle", "from": 0, "to": 8, "direction": "forward", "color": "#000000ff" },
+   { "name": "off", "from": 9, "to": 9, "direction": "forward", "color": "#000000ff" }
+  ],
+  "layers": [
+   { "name": "Layer 2", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 3", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 5", "opacity": 255, "blendMode": "normal" },
+   { "name": "Layer 4", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
