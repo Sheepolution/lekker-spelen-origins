@@ -226,6 +226,8 @@ function GameManager:onChangingLevel(level)
     self.offStars2.z = 200
     self.offStars2.removeOnLevelChange = true
 
+    self.ui:updateDeathCounters()
+
     for i, v in ipairs(self.transitionRects) do
         self:delay(i * .01, function() v.visible = false end)
     end
