@@ -141,9 +141,7 @@ local meeting_pier = {
                 character = "pier",
                 functions = {
                     init = function(self)
-                        self.camera:tweenToRelativePoint(-1000, 0, .5)
-                        self.coil.wait(.5)
-                        self.camera:follow(self.cameraFollow, true)
+                        self.camera:tweenToObject(self.cameraFollow, .5)
                     end,
                 },
                 text =
