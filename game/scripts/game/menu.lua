@@ -1,3 +1,4 @@
+local libs = require "libs"
 local FlagManager = require "flagmanager"
 local SFX = require "base.sfx"
 local Music = require "base.music"
@@ -320,6 +321,16 @@ function Menu:new(pause, scene)
                 }
             },
             method = self.onPressPixelPerfect
+        },
+        {
+            content = {
+                path = "settings.screen.sharp",
+                content = {
+                    [true] = "Ik ben een scherp-man",
+                    [false] = "Ik ben een smooth-man",
+                }
+            },
+            method = self.onPressPixel
         },
         {
             content = {
@@ -1054,7 +1065,7 @@ function Menu:onPressBack()
 
     local menu = table.remove(self.menuTree)
     if menu then
-        Save:save()
+        Save:save("settings")
         self:showItems(menu.items, menu.selected, true)
     elseif not self.pauseMenu then
         self:hide()
@@ -1313,6 +1324,14 @@ function Menu:onPressPixelPerfect()
 
     push:applySettings({ pixelperfect = Save:get("settings.screen.pixelperfect") })
     push:initValues()
+end
+
+function Menu:onPressPixel()
+    self:toggleOption()
+
+    push:applySettings({ pixel = Save:get("settings.screen.sharp") })
+    push:initValues()
+    libs.push:setFilter(Save:get("settings.screen.sharp") and "nearest" or "linear")
 end
 
 function Menu:onPressVsync()

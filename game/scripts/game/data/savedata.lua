@@ -65,6 +65,7 @@ local savedata = {
         screen = {
             fullscreen = true,
             pixelperfect = false,
+            sharp = true,
             vsync = false,
         },
         audio = {
