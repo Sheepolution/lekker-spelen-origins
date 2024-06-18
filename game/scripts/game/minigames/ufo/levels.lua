@@ -179,7 +179,7 @@ local levels = {
         }
     },
     [6] = {
-        timeToBeat = 45,
+        timeToBeat = 46,
         dialogue = {
             {
                 character = "timon",
