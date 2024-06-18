@@ -570,7 +570,10 @@ function PandaRoom:ddrOnDanceMove(player, direction)
     arrow.scale:set(1.4)
     self:tween(arrow.scale, .1, { x = 1, y = 1 })
 
-    local arrows = self.arrowSprites:filter(function(e) return e.player == player.tag and e:overlapsX(arrow) end)
+    local arrows = self.arrowSprites:filter(function(e)
+        return e.player == player.tag and e:overlapsX(arrow) and
+            not e.triggered
+    end)
     if #arrows == 0 and #self.arrowSprites > 0 then
         if player.tag == "Peter" then
             self.mistakesMadePeter = self.mistakesMadePeter + 1
@@ -599,6 +602,7 @@ function PandaRoom:ddrOnDanceMove(player, direction)
         if a.direction == direction then
             a.singleColor = { 255, 255, 255 }
             a.moveTween:stop()
+            a.triggered = true
             self:tween(a.scale, .2, { x = 0, y = 0 }):ease("backin")
                 :oncomplete(function()
                     a:destroy()
@@ -885,6 +889,7 @@ function PandaRoom:danceOnDanceMove(player, direction)
         return e.player == player.tag and
             e:overlapsX(arrow) and
             not e.isBar
+            and not e.triggered
     end)
     if #arrows == 0 then
         if player.tag == "Peter" then
@@ -915,6 +920,7 @@ function PandaRoom:danceOnDanceMove(player, direction)
             a.singleColor = { 255, 255, 255 }
             a.moveTween:stop()
             a.visible = true
+            a.triggered = true
             a.bar.moveTween:stop()
             a.bar:destroy()
             self.arrowSprites:removeValue(a.bar)
