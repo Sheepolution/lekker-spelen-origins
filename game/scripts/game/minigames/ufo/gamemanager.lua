@@ -106,15 +106,7 @@ function GameManager:update(dt)
 
     self.music:update(dt)
 
-    if not self.textbox.inDialogue then
-        timer = timer + dt
-        if timer >= t then
-            timer = timer - t
-            GameManager.super.update(self, t)
-        end
-    else
-        GameManager.super.update(self, dt)
-    end
+    GameManager.super.update(self, dt)
 
     self.offStars1.offset.x = (self.camera.x - self.level.x) * 0.8 + self.level.x - 300
     self.offStars1.offset.y = (self.camera.y - self.level.y) * 0.8 + self.level.y - 300

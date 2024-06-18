@@ -234,6 +234,7 @@ function Ufo:respawn()
     self.y = self.start.y
     self.died = false
     self.anim:set("neither")
+    self.drag:set(self.speed)
 end
 
 return Ufo
