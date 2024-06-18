@@ -32,7 +32,7 @@ local computer = {
                 },
                 functions = computer_functions,
                 text =
-                "Welkom, P3-TR en T1-MN. [.5] Ik kan jullie geen toegang verlenen tot de volgende ruimte.[function=eye][emotion=eye]",
+                "Welkom, P3-TR en T1-MN. [.5]Ik kan jullie geen toegang verlenen tot de volgende ruimte.[function=eye][emotion=eye]",
             },
             {
                 character = "peter",
