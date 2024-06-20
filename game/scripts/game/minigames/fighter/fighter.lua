@@ -371,9 +371,9 @@ function Fighter:onHit(opponent, damage, kind)
         if not self.defeated then
             self:playSFX(kind)
         end
-        Input:rumble(self.controllerId, .4, .25)
+        self.scene.scene:rumble(self.controllerId, .4, .25)
     else
-        Input:rumble(self.controllerId, .2, .2)
+        self.scene.scene:rumble(self.controllerId, .2, .2)
         self:playSFX("block")
     end
 

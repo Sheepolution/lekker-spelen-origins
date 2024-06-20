@@ -374,7 +374,7 @@ function PandaRoom:clefairyOnDanceMove(player, direction)
         end
     else
         self:onMakingMistake()
-        Input:rumble(self.scene[player.tag:lower()].controllerId, .1, .25)
+        self.scene:rumble(self.scene[player.tag:lower()].controllerId, .1, .25)
     end
 end
 
@@ -627,7 +627,7 @@ function PandaRoom:ddrOnDanceMove(player, direction)
             self.danceDelays:stop()
             self.danceDelays:clear()
             self:onMakingMistake()
-            Input:rumble(self.scene[player.tag:lower()].controllerId, .1, .25)
+            self.scene:rumble(self.scene[player.tag:lower()].controllerId, .1, .25)
         end
     end
 
@@ -949,7 +949,7 @@ function PandaRoom:danceOnDanceMove(player, direction)
             self.danceDelays:stop()
             self.danceDelays:clear()
             self:onMakingMistake()
-            Input:rumble(self.scene[player.tag:lower()].controllerId, .1, .25)
+            self.scene:rumble(self.scene[player.tag:lower()].controllerId, .1, .25)
         end
     end
 

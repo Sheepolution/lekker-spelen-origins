@@ -1660,9 +1660,50 @@ function GameManager:saveTelegateActive(telegate)
     Save:set("game.telegates." .. telegate.mapEntityId, true)
 end
 
-function GameManager:rumble(strength, duration)
-    Input:rumble(1, strength, duration)
-    Input:rumble(2, strength, duration)
+function GameManager:rumble(id, strength, duration)
+    if duration then
+        self:specificRumble(id, strength, duration)
+    else
+        duration = strength
+        strength = id
+    end
+
+    local peter = Save:get("settings.controls.peter")
+    if peter.rumble then
+        if peter.player1 then
+            Input:rumble(1, strength, duration)
+        else
+            Input:rumble(2, strength, duration)
+        end
+    end
+
+    local timon = Save:get("settings.controls.timon")
+    if timon.rumble then
+        if timon.player1 then
+            Input:rumble(1, strength, duration)
+        else
+            Input:rumble(2, strength, duration)
+        end
+    end
+end
+
+function GameManager:specificRumble(id, strength, duration)
+    local peter = Save:get("settings.controls.peter")
+    local peter_id = peter.player1 and 1 or 2
+    if peter_id == id then
+        if peter.rumble then
+            Input:rumble(id, strength, duration)
+        end
+        return
+    end
+
+    local timon = Save:get("settings.controls.timon")
+    local timon_id = timon.player1 and 1 or 2
+    if timon_id == id then
+        if timon.rumble then
+            Input:rumble(id, strength, duration)
+        end
+    end
 end
 
 function GameManager:startWakuMinigame()

@@ -1262,7 +1262,7 @@ function Player:stun(duration)
     self:stopMoving()
     self:shake(3, .3)
     self.stunned = true
-    Input:rumble(self.controllerId, .35, .3)
+    self.scene:rumble(self.controllerId, .35, .3)
 
     if duration then
         if self.stunRemoveDelay then
@@ -1440,7 +1440,7 @@ function Player:hurt(e, teleport)
     self.hurting = true
     self.hurtTimer()
 
-    Input:rumble(self.controllerId, .25, .25)
+    self.scene:rumble(self.controllerId, .25, .25)
 
     self:loseHealth()
 
@@ -1601,7 +1601,7 @@ end
 function Player:showIndictatorTeleport()
     self.indicator.anim:set("exclamation_" .. self.tag:lower())
     self.indicator.visible = true
-    Input:rumble(self.sidekick.controllerId, .1, .2)
+    self.scene:rumble(self.sidekick.controllerId, .1, .2)
 end
 
 function Player:showIndictatorDenied()

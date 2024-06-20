@@ -4,7 +4,6 @@ local Sprite = require "base.sprite"
 local Rect = require "base.rect"
 local Peter = require "characters.players.peter"
 local Asset = require "base.asset"
-local Input = require "base.input"
 local SFX = require "base.sfx"
 
 local Timon = require "characters.players.timon"
@@ -387,7 +386,7 @@ local sicko_intro = {
             self.timon.visible = false
             sicko.anim:set("hold_timon")
             sfx.grab:play("reverb")
-            Input:rumble(self.timon.controllerId, .4, .3)
+            self.scene:rumble(self.timon.controllerId, .4, .3)
 
             self.coil.wait(.2)
             self.cutsceneData.sicko_room.video = nil
@@ -402,7 +401,7 @@ local sicko_intro = {
             sicko.anim:set("punch_timon")
 
             self.coil.wait(1.4)
-            Input:rumble(self.timon.controllerId, .8, .3)
+            self.scene:rumble(self.timon.controllerId, .8, .3)
             sfx.punch:play("reverb")
             self.coil.wait(1.1)
 
@@ -428,8 +427,8 @@ local sicko_intro = {
             self.timon.visible = true
             self.peter = self:add(Peter(sicko:center()))
             self.peter.inCutscene = true
-            Input:rumble(self.timon.controllerId, .2, .3)
-            Input:rumble(self.peter.controllerId, .3, .3)
+            self.scene:rumble(self.timon.controllerId, .2, .3)
+            self.scene:rumble(self.peter.controllerId, .3, .3)
             self.coil.wait(.5)
             self:startDialogue("part4_timon")
             self.coil.wait(1)

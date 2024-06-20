@@ -214,8 +214,8 @@ function Ufo:die()
     if self.died then return end
 
     self:shake(1, .3, nil, true)
-    Input:rumble(1, .5, .3)
-    Input:rumble(2, .5, .3)
+    self.scene.scene:rumble(1, .5, .3)
+    self.scene.scene:rumble(2, .5, .3)
 
     self.died = true
     self:stopMoving()
