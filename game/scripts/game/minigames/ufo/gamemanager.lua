@@ -92,20 +92,7 @@ function GameManager:new(levelsToBeat, minigame)
     self.timerIncreaseInterval = step.every(1)
 end
 
-local timer = 0
-local t = 1 / 60
-
 function GameManager:update(dt)
-    if Input:isPressed("f6") then
-        self.timeToBeat = self.timeToBeat - 1
-        self.ui:updateTimeToBeat(self.timeToBeat)
-    end
-
-    if Input:isPressed("f7") then
-        self.timeToBeat = self.timeToBeat + 1
-        self.ui:updateTimeToBeat(self.timeToBeat)
-    end
-
     if self.startedRace then
         self.timer = self.timer + dt
 
