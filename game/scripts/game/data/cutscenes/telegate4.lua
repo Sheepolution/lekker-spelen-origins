@@ -152,6 +152,9 @@ local telegate1 = {
             {
                 character = "pier",
                 functions = {
+                    functions = {
+                        init = pier_idle
+                    },
                     dig = function(self)
                         local pier = self:findEntityWithTag("Pier")
                         pier.anim:set("dig")
