@@ -1,6 +1,10 @@
 local tips = {
     ["Horsey_boss"] = {
         "Als je bukt raakt Horsey je niet",
+        "Als je bukt raakt Horsey je niet",
+        "Als je bukt raakt Horsey je niet",
+        "Als je bukt raakt Horsey je niet",
+        "Als je bukt raakt Horsey je niet",
         "Vergeet niet dat je kan klonen",
         "Je kan niet op Horsey springen",
         "Zorg dat je in de lucht bent op het moment dat Horsey landt",
@@ -17,6 +21,13 @@ local tips = {
         "Peter springt, Timon rent",
         "Timon bukt, Peter valt door platforms heen",
         "Timon drukt op de knoppen",
+        "Timon krijgt een speed boost wanneer hij dicht bij Horsey is",
+        "Timon bukt, Peter valt door platforms heen",
+        "Timon drukt op de knoppen",
+        "Timon krijgt een speed boost wanneer hij dicht bij Horsey is",
+        "Timon bukt, Peter valt door platforms heen",
+        "Timon drukt op de knoppen",
+        "Timon krijgt een speed boost wanneer hij dicht bij Horsey is",
         "XD"
     },
 }
