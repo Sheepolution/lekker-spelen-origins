@@ -386,7 +386,7 @@ local sicko_intro = {
             self.timon.visible = false
             sicko.anim:set("hold_timon")
             sfx.grab:play("reverb")
-            self.scene:rumble(self.timon.controllerId, .4, .3)
+            self:rumble(self.timon.controllerId, .4, .3)
 
             self.coil.wait(.2)
             self.cutsceneData.sicko_room.video = nil
@@ -401,7 +401,7 @@ local sicko_intro = {
             sicko.anim:set("punch_timon")
 
             self.coil.wait(1.4)
-            self.scene:rumble(self.timon.controllerId, .8, .3)
+            self:rumble(self.timon.controllerId, .8, .3)
             sfx.punch:play("reverb")
             self.coil.wait(1.1)
 
@@ -427,8 +427,8 @@ local sicko_intro = {
             self.timon.visible = true
             self.peter = self:add(Peter(sicko:center()))
             self.peter.inCutscene = true
-            self.scene:rumble(self.timon.controllerId, .2, .3)
-            self.scene:rumble(self.peter.controllerId, .3, .3)
+            self:rumble(self.timon.controllerId, .2, .3)
+            self:rumble(self.peter.controllerId, .3, .3)
             self.coil.wait(.5)
             self:startDialogue("part4_timon")
             self.coil.wait(1)
