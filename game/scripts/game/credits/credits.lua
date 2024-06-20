@@ -55,7 +55,7 @@ function Credits:new(skippable)
     self.thisWasItText = self:add(Text(630, 100, "dit was het", "arial", 48))
     self.thisWasItText.visible = false
 
-    self.emotionalMomentTimer = 60
+    self.emotionalMomentTimer = LEKKER_SPELEN and 60 or -200
 end
 
 function Credits:update(dt)

@@ -680,42 +680,46 @@ end
 function Waku:connectWithChat()
     self.seenChatters = {}
     self.switchToFakeTimer()
-    ---@diagnostic disable-next-line: missing-parameter
-    self.client = websocket.new(SERVER_IP, 8082)
+    if LEKKER_SPELEN then
+        ---@diagnostic disable-next-line: missing-parameter
+        self.client = websocket.new(SERVER_IP, 8082)
 
-    ---@diagnostic disable-next-line: duplicate-set-field
-    self.client.onmessage = function(c, message)
-        local data = json.decode(message)
-        if self.seenChatters[data.user] then
-            return
+        ---@diagnostic disable-next-line: duplicate-set-field
+        self.client.onmessage = function(c, message)
+            local data = json.decode(message)
+            if self.seenChatters[data.user] then
+                return
+            end
+
+            local answer = self:extractAnswerFromMessage(data.message)
+
+            if not answer then
+                return
+            end
+
+            self.seenChatters[data.user] = true
+
+            self.useFakeAudience = false
+            self.switchToFakeTimer()
+            self:onReceivingAudienceAnswer(answer)
         end
 
-        local answer = self:extractAnswerFromMessage(data.message)
-
-        if not answer then
-            return
+        ---@diagnostic disable-next-line: duplicate-set-field
+        self.client.onerror = function()
+            self.client:close()
+            self.client = nil
+            self.useFakeAudience = true
         end
 
-        self.seenChatters[data.user] = true
-
-        self.useFakeAudience = false
-        self.switchToFakeTimer()
-        self:onReceivingAudienceAnswer(answer)
-    end
-
-    ---@diagnostic disable-next-line: duplicate-set-field
-    self.client.onerror = function()
-        self.client:close()
-        self.client = nil
+        ---@diagnostic disable-next-line: duplicate-set-field
+        self.client.onclose = function()
+            self.client = nil
+        end
+    else
         self.useFakeAudience = true
     end
 
-    ---@diagnostic disable-next-line: duplicate-set-field
-    self.client.onclose = function()
-        self.client = nil
-    end
-
-    -- Find the 3 in the fakeAudienceWeighted and swap it with the value on the correct answer
+    -- Find the 10 in the fakeAudienceWeighted and swap it with the value on the correct answer
     local correctAnswer = self.currentQuestion.correct
     local threeIndex = table.indexOf(self.fakeAudienceWeighted, 10)
     if correctAnswer == threeIndex then

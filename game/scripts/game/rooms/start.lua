@@ -98,7 +98,9 @@ function Start:setupForMenu()
     self.versionText:setColor(255, 255, 255)
     self.versionText.visible = false
 
-    self:connectWithChat()
+    if LEKKER_SPELEN then
+        self:connectWithChat()
+    end
 end
 
 function Start:hideLogo()

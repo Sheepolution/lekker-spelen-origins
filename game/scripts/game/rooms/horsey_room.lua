@@ -83,7 +83,11 @@ function HorseyRoom:done()
         end
     end
 
-    self:connectWithChat()
+    if LEKKER_SPELEN then
+        self:connectWithChat()
+    else
+        self.useFakeTimer = true
+    end
 end
 
 function HorseyRoom:update(dt)
