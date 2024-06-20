@@ -40,6 +40,11 @@ function Timon:new(...)
         swim = self.hitboxSwim
     }
 
+    self.hurtboxAir = self:addHitbox("hurtbox_air", 0, 10, 55, 22)
+    self.hurtboxAir.solid = false
+
+    self.hurtboxMain = self.hitboxMain
+
     self.isTimon = true
 
     self.jumpPower = 520
@@ -78,6 +83,15 @@ function Timon:onPeterJumpBoost()
     self.inputHoldingDown = false
     self.SM:to(Player.MS.Standup, true)
     self.SFX.bark:play("reverb")
+end
+
+function Timon:switchToHitbox(...)
+    Timon.super.switchToHitbox(self, ...)
+    if self.SM:is(self.PS.Air) then
+        self.hurtboxMain = self.hurtboxAir
+    else
+        self.hurtboxMain = self.hitboxMain
+    end
 end
 
 return Timon

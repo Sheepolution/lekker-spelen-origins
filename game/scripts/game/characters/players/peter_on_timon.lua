@@ -18,11 +18,9 @@ function PeterOnTimon:new(...)
     self.canSniff = false
     self.canCrouch = true
 
-    self.hitboxStand = self:addHitbox("body", 0, 20, 60, 42)
-    self.hitboxCrouch = self:addHitbox("crouch", 0, 30, 60, 22)
+    self.hitboxStand = self:addHitbox("body", 0, 20, 55, 42)
+    self.hitboxCrouch = self:addHitbox("crouch", 0, 30, 55, 22)
     self.hitboxCrouch.solid = false
-    self.hitboxSwim = self:addHitbox("swim", 0, 14, 60, 22)
-    self.hitboxSwim.solid = false
 
     self.hitboxMain = self.hitboxStand
 
@@ -33,8 +31,12 @@ function PeterOnTimon:new(...)
         crouch = self.hitboxCrouch,
         run = self.hitboxStand,
         jump = self.hitboxStand,
-        swim = self.hitboxSwim
     }
+
+    self.hurtboxAir = self:addHitbox("hurtbox_air", 0, 10, 55, 22)
+    self.hurtboxAir.solid = false
+
+    self.hurtboxMain = self.hitboxMain
 
     self.isTimon = true
 
@@ -174,6 +176,15 @@ function PeterOnTimon:die()
 
     self.scene:add(peter)
     self.scene:add(timon)
+end
+
+function PeterOnTimon:switchToHitbox(...)
+    PeterOnTimon.super.switchToHitbox(self, ...)
+    if self.SM:is(self.PS.Air) then
+        self.hurtboxMain = self.hurtboxAir
+    else
+        self.hurtboxMain = self.hitboxMain
+    end
 end
 
 return PeterOnTimon

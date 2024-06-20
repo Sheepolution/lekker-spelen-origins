@@ -36,6 +36,8 @@ function Peter:new(...)
         swim = self.hitboxCrouch,
     }
 
+    self.hurtboxMain = self.hitboxMain
+
     self.jumpPower = 460
     self.jumpPowerDefault = self.jumpPower
     self.launchedPower = 610

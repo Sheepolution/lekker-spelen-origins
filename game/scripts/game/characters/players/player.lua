@@ -484,6 +484,25 @@ function Player:onOverlap(i)
         return false
     end
 
+    if i.myHitbox == self.hurtboxMain then
+        if i.e.jumpable then
+            if i.hisTop then
+                self.SM:to(MS.Jump, false, true)
+                i.e:onJumpedOn()
+                return
+            end
+        end
+
+        if i.e.hurtsPlayer then
+            if not i.e.damageBox or i.theirHitbox == i.e.damageBox then
+                self:onOverlapEnemy(i)
+                if self.hurting then
+                    return false
+                end
+            end
+        end
+    end
+
     if i.myHitbox == self.hitboxMain then
         if i.e:is(Clone) then
             return self:onOverlapClone(i)
@@ -513,23 +532,6 @@ function Player:onOverlap(i)
             if self:canMove() then
                 if Input:isPressed(self.keys[self.controllerId].interact) then
                     i.e:onInteract(self)
-                end
-            end
-        end
-
-        if i.e.jumpable then
-            if i.hisTop then
-                self.SM:to(MS.Jump, false, true)
-                i.e:onJumpedOn()
-                return
-            end
-        end
-
-        if i.e.hurtsPlayer then
-            if not i.e.damageBox or i.theirHitbox == i.e.damageBox then
-                self:onOverlapEnemy(i)
-                if self.hurting then
-                    return false
                 end
             end
         end
@@ -1387,6 +1389,7 @@ function Player:switchToHitbox(name)
 
     self.hitboxes[name].solid = true
     self.hitboxMain = self.hitboxes[name]
+    self.hurtboxMain = self.hitboxMain
 end
 
 function Player:becomeConfused()
