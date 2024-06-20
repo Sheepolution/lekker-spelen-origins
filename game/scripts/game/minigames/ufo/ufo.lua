@@ -26,12 +26,14 @@ function Ufo:new(...)
             right = { "c1_left_right" },
             up = { "up", "c2_left_up" },
             down = { "down", "c2_left_down" },
+            back = { "backspace", "c2_back" },
         },
         [false] = {
             left = { "left", "c2_left_left" },
             right = { "right", "c2_left_right" },
             up = { "c1_left_up" },
             down = { "c1_left_down" },
+            back = { "c1_back" },
         }
     }
 
@@ -42,12 +44,14 @@ function Ufo:new(...)
                 right = { "right", "c1_left_right" },
                 up = { "up", "w", "c2_left_up" },
                 down = { "down", "s", "c2_left_down" },
+                back = { "backspace", "c2_back" },
             },
             [false] = {
                 left = { "left", "c2_left_left" },
                 right = { "right", "c2_left_right" },
                 up = { "up", "c1_left_up" },
                 down = { "down", "c1_left_down" },
+                back = { "backspace", "c1_back" },
             }
         }
     end

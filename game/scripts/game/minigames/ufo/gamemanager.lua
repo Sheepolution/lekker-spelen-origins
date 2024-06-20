@@ -101,6 +101,12 @@ function GameManager:update(dt)
         end
     end
 
+    if self.textbox.inDialogue then
+        if Input:isDown(self.ufo.controls[true].back) or Input:isDown(self.ufo.controls[false].back) then
+            dt = dt * 4
+        end
+    end
+
     self.music:update(dt)
 
     GameManager.super.update(self, dt)

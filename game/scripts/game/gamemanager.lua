@@ -288,9 +288,18 @@ function GameManager:update(dt)
         return
     end
 
-    if self.inCutscene then
-        if Input:isDown("f8") then
-            dt = dt * 4
+    if self.inCutscene and not self.ufoGame and not self.roofEvent then
+        local t = dt
+        if self.peter then
+            if Input:isDown(self.peter.keys[self.peter.controllerId].back) then
+                dt = t * 4
+            end
+        end
+
+        if self.timon then
+            if Input:isDown(self.timon.keys[self.timon.controllerId].back) then
+                dt = t * 4
+            end
         end
     end
 
@@ -966,6 +975,8 @@ function GameManager:toFightingGame(minigame, training)
     if minigame then
         self.inFightingMinigame = true
         self.music:stop(.5)
+    else
+        self.roofEvent = true
     end
     if not self.transitionFight then
         self:prepareFightingGameTransition()
@@ -993,10 +1004,12 @@ function GameManager:toFightingGame(minigame, training)
 end
 
 function GameManager:onFightingGameWin(tag)
+    self.fightingGame = nil
     if self.inFightingMinigame then
         self:toMainMenu()
         return
     end
+
 
     self:addOverlay(Cutscene(tag:lower(), self.F:startRoofScene(tag)))
     self:fadeIn(1)
@@ -1403,6 +1416,7 @@ function GameManager:startRoofScene(player)
     Save:set("game.stats.main_event", player:lower())
     self:fadeIn(1)
     self:addOverlay(SadRoof(player, function()
+        self.roofEvent = false
         self.map:toLevel("Sicko", true, false)
     end))
 end
