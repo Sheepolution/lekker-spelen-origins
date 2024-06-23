@@ -1,0 +1,56 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "lua-local",
+      "request": "launch",
+      "name": "Test LÖVE",
+      "program": {
+        "command": "love"
+      },
+      "args": [
+        ".",
+        "test"
+      ],
+      "cwd": "${workspaceFolder}/game",
+    },
+    {
+      "type": "lua-local",
+      "request": "launch",
+      "name": "Debug LÖVE",
+      "program": {
+        "command": "love"
+      },
+      "args": [
+        ".",
+        "debug"
+      ],
+      "cwd": "${workspaceFolder}/game"
+    },
+    {
+      "type": "lua-local",
+      "request": "launch",
+      "name": "Profile LÖVE",
+      "program": {
+        "command": "love"
+      },
+      "args": [
+        ".",
+        "profile"
+      ],
+      "cwd": "${workspaceFolder}/game"
+    },
+    {
+      "type": "lua-local",
+      "request": "launch",
+      "name": "Release LÖVE",
+      "program": {
+        "command": "love"
+      },
+      "args": [
+        ".",
+      ],
+      "cwd": "${workspaceFolder}/game"
+    },
+  ]
+}

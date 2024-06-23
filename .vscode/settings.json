@@ -1,0 +1,24 @@
+{
+    "Lua.diagnostics.globals": [
+        "love",
+        "GLOBAL",
+        "pretty",
+        "set",
+        "functional",
+        "intersect"
+    ],
+    "Lua.diagnostics.disable": [
+        "lowercase-global",
+        "empty-block",
+        "undefined-field",
+        "redundant-parameter",
+        "different-requires",
+        "cast-local-type"
+    ],
+    "Lua.runtime.version": "LuaJIT",
+    "Lua.workspace.library": [
+        "${3rd}/love2d/library"
+    ],
+    "Lua.workspace.checkThirdParty": false,
+    "Lua.completion.autoRequire": false
+}
