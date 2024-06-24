@@ -21,12 +21,12 @@ local sicko_intro = {
         part1_timon = {
             {
                 character = "timon",
-                emotion = "crying",
+                emotion = "sobbing",
                 text = "Peter... *snik*",
             },
             {
                 character = "timon",
-                emotion = "sad",
+                emotion = "sobbing_slightly",
                 text = "Uhm... *snik* [.2]hallo? [.3]Is dit toevallig de uitgang?",
             },
 
@@ -223,13 +223,13 @@ local sicko_intro = {
             },
             {
                 character = "peter",
-                emotion = "concerned",
+                emotion = "sobbing_slightly",
                 text =
                 "Timon, het spijt me van eerder.\n[.3]Ik had die dingen niet moeten zeggen."
             },
             {
                 character = "timon",
-                emotion = "proud",
+                emotion = "sobbing_slightly",
                 text =
                 "Nee het spijt [b]mij[/b], Peter. [.3]Zonder jou was ik nooit zo ver gekomen. [.3]We zijn een [b]Dream Team Supreme![/b]"
             },
