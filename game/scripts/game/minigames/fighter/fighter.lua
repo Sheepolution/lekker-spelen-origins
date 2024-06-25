@@ -354,6 +354,15 @@ function Fighter:onHit(opponent, damage, kind)
 
     local block = self:isBlocking(opponent)
 
+    if self.activeAttackHitbox then
+        self:cb(function()
+            if self.activeAttackHitbox then
+                self.activeAttackHitbox:deactivate()
+                self.activeAttackHitbox = nil
+            end
+        end)
+    end
+
     self.SM:unlock(AS)
     self.actionLockTimer:finish(true)
     self.SM:to(block and AS.Block or AS.Hit, true)
@@ -460,6 +469,11 @@ function Fighter:die()
     self.SM:to(AS.Hit)
     self.defeated = true
     self.scene:setSlowmo(true)
+
+    if self.activeAttackHitbox then
+        self.activeAttackHitbox:deactivate()
+        self.activeAttackHitbox = nil
+    end
 end
 
 function Fighter:loseControl()
