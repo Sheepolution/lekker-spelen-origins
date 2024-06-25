@@ -861,12 +861,24 @@ function GameManager:finishDoorTransition(level)
 
     if self.doorTransitionLeft then
         self.players:centerX(level.x + level.width - 5)
-        self.peter:cutsceneWalkTo(-walk_distance + 10, true, callback)
-        self.timon:cutsceneWalkTo(-walk_distance, true, callback)
+
+        if self.peter then
+            self.peter:cutsceneWalkTo(-walk_distance + 10, true, callback)
+        end
+
+        if self.timon then
+            self.timon:cutsceneWalkTo(-walk_distance, true, callback)
+        end
     else
         self.players:centerX(level.x + 5)
-        self.peter:cutsceneWalkTo(walk_distance - 10, true, callback)
-        self.timon:cutsceneWalkTo(walk_distance, true, callback)
+
+        if self.peter then
+            self.peter:cutsceneWalkTo(walk_distance - 10, true, callback)
+        end
+
+        if self.timon then
+            self.timon:cutsceneWalkTo(walk_distance, true, callback)
+        end
     end
 
     self.players:teleport()
