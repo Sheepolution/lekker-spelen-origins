@@ -93,7 +93,7 @@ function Textbox:update(dt)
         if self.dialogueStarted then
             if self.textbox:is_finished() then
                 self.indicator.visible = true
-                if Input:isPressed("z", "s", "space", "c1_a", "c2_a") then
+                if Input:isPressed("z", "s", "space", "c1_a", "c2_a") or Input:isDown("c1_back", "c2_back", "backspace") then
                     self:nextDialogue()
                 end
             else
