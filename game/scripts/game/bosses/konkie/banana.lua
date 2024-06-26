@@ -22,7 +22,7 @@ function Banana:new(x, y, left)
 
     self.hurtsPlayer = true
 
-    self.health = 3
+    self.health = 2
 
     self:moveToAngle(self.angle, _.random(600, 800))
     self.z = ZMAP.IN_FRONT_OF_PLAYERS

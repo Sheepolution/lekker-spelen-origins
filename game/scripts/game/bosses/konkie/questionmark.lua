@@ -10,8 +10,8 @@ QuestionMark.SFX = {
     }
 }
 
-function QuestionMark:new(...)
-    QuestionMark.super.new(self, ...)
+function QuestionMark:new(x, y, low)
+    QuestionMark.super.new(self, x, y)
     self:setImage("bosses/konkie/question_mark", true)
     self.anim:set("grow")
     self.anim:getAnimation("dead"):onComplete(self.F:destroy())
@@ -24,9 +24,15 @@ function QuestionMark:new(...)
 
     self:setColor(114, 1, 255)
 
-    self:delay(1, function()
-        self["to" .. _.pick({ "ExclamationPoint", "Circle", "I" })](self)
-    end)
+    if low then
+        self:delay(1, function()
+            self["to" .. _.pick({ "ExclamationPoint", "I" })](self)
+        end)
+    else
+        self:delay(1, function()
+            self["to" .. _.pick({ "ExclamationPoint", "Circle", "I" })](self)
+        end)
+    end
 
     self.angleOffset = -PI / 2
     self.angle = PI / 2
@@ -81,7 +87,7 @@ function QuestionMark:toCircle()
     self.gravity = 800
     self.velocity.x = _.random(250, 300) * _.scoin()
     self.bounce.x = 1
-    self.bounce.y = 0.8
+    self.bounce.y = 0.9
 
     self.damageBox = self:addHitbox("damage", 0, 27, self.width * .8, self.width * .8)
 end

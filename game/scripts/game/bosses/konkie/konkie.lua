@@ -214,7 +214,8 @@ end
 
 function Konkie:questionMarksUpdate(dt)
     if self.qmTimer(dt) then
-        self.mapLevel:add(QuestionMark(self:centerX() + _.scoin() * _.random(200, 300), self.y + _.random(50, 300)))
+        local y = _.random(50, 300)
+        self.mapLevel:add(QuestionMark(self:centerX() + _.scoin() * _.random(200, 300), self.y + y, y > 200))
     end
 end
 
