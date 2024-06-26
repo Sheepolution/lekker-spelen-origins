@@ -11,11 +11,14 @@ local Waku = Scene:extend("Waku")
 local Point = require "base.point"
 local Sprite = require "base.sprite"
 
-local questions = require "data.waku_questions"
+local questions
 local abc = { "A", "B", "C" }
 
 function Waku:new(scene)
     Waku.super.new(self)
+
+    package.loaded["data.waku_questions"] = nil
+    questions = require "data.waku_questions"
 
     self.scene = scene
 
@@ -398,12 +401,12 @@ function Waku:nextQuestion()
 
     local correct = question.answers[1]
 
-    question.answers = _.shuffle(question.answers)
+    local answers = _.shuffle(question.answers)
 
-    question.correct = table.index_of(question.answers, correct)
+    question.correct = table.index_of(answers, correct)
 
     for i, v in ipairs(self.answerOptionList) do
-        v:write(abc[i] .. ": " .. question.answers[i])
+        v:write(abc[i] .. ": " .. answers[i])
         v:setColor(255, 255, 255)
         v.offset.x = 0
         v.alpha = 0
