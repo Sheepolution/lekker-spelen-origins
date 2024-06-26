@@ -51,8 +51,8 @@ if DEBUG then
             down = { "down", "c1_left_down", "c1_dpdown" },
             jump = { "up", "c1_a", "c1_dpup" },
             punch = { "c1_x", "space" },
-            kick = { "c1_b" },
-            dash = { "c1_y", "c1_triggerright", "c1_rightshoulder" }
+            kick = { "c1_b", "x" },
+            dash = { "c", "c1_y", "c1_triggerright", "c1_rightshoulder" }
         },
         {
             left = { "a", "c2_left_left", "c2_dpleft" },
