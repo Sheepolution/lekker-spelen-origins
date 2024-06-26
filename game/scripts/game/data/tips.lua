@@ -21,13 +21,13 @@ local tips = {
         "Peter springt, Timon rent",
         "Timon bukt, Peter valt door platforms heen",
         "Timon drukt op de knoppen",
-        "Timon krijgt een speed boost wanneer hij dicht bij Horsey is",
+        "Timon krijgt een speed boost wanneer hij dicht bij de centaur is",
         "Timon bukt, Peter valt door platforms heen",
         "Timon drukt op de knoppen",
-        "Timon krijgt een speed boost wanneer hij dicht bij Horsey is",
+        "Timon krijgt een speed boost wanneer hij dicht bij de centaur is",
         "Timon bukt, Peter valt door platforms heen",
         "Timon drukt op de knoppen",
-        "Timon krijgt een speed boost wanneer hij dicht bij Horsey is",
+        "Timon krijgt een speed boost wanneer hij dicht bij de centaur is",
         "XD"
     },
 }
