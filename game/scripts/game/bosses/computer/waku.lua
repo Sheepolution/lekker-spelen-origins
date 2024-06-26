@@ -319,28 +319,37 @@ function Waku:getNextQuestion()
         difficulty = 4
     end
 
-    local special = false
+    local filtered_questions
 
-    if position == 2 or position == 9 or position == 7
-        or position == 0 or position == 4 or position == 11
-        or position == 5 or position == 6 then
-        special = true
-    end
+    if LEKKER_SPELEN then
+        local special = false
 
-    if self.scene.scene.inWakuMinigame then
-        special = false
-    end
+        if position == 2 or position == 9 or position == 7
+            or position == 0 or position == 4 or position == 11
+            or position == 5 or position == 6 then
+            special = true
+        end
 
-    local question
-    local filtered_questions = _.filter(questions,
-        function(q, i)
-            return q.difficulty == difficulty
-                and q.special == special
-                and not self.seen[difficulty][i]
-        end)
+        if self.scene.scene.inWakuMinigame then
+            special = false
+        end
 
-    if #filtered_questions == 0 then
-        -- All special questions are gone
+        filtered_questions = _.filter(questions,
+            function(q, i)
+                return q.difficulty == difficulty
+                    and q.special == special
+                    and not self.seen[difficulty][i]
+            end)
+
+        if #filtered_questions == 0 then
+            -- All special questions are gone
+            filtered_questions = _.filter(questions,
+                function(q, i)
+                    return q.difficulty == difficulty
+                        and not self.seen[difficulty][i]
+                end)
+        end
+    else
         filtered_questions = _.filter(questions,
             function(q, i)
                 return q.difficulty == difficulty
@@ -353,7 +362,7 @@ function Waku:getNextQuestion()
         filtered_questions = _.filter(questions, function(q) return q.difficulty == difficulty end)
     end
 
-    question = _.pick(filtered_questions)
+    local question = _.pick(filtered_questions)
     question.special = false
     local index = _.index_of(questions, question)
     self.seen[difficulty][index] = true
