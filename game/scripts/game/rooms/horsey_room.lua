@@ -292,10 +292,9 @@ function HorseyRoom:onHorseyNoHealth()
     self.television:onHorseyDead()
     self.scene.music:stop(2, true)
     self:delay(1, function()
+        FlagManager:set(Enums.Flag.defeatedHorsey, true)
         self.scene:startCutscene("horsey_defeat")
     end)
-
-    FlagManager:set(Enums.Flag.defeatedHorsey, true)
 end
 
 function HorseyRoom:onEndCutscene()
