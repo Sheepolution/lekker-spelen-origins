@@ -74,8 +74,6 @@ function HorseyRoom:done()
     if FlagManager:get(Enums.Flag.defeatedHorsey) then
         self:initializeRevisit()
     else
-        self.scene:onInitializingBoss()
-
         if FlagManager:get(Enums.Flag.cutsceneHorseyIntro) then
             self:initializeRestart()
         else
@@ -304,6 +302,7 @@ function HorseyRoom:onEndCutscene()
 end
 
 function HorseyRoom:initializeRestart()
+    self.scene:onInitializingBoss()
     self.scene.noDoorAccess = true
 
     self:delay(1, function()
