@@ -208,6 +208,11 @@ end
 function Textbox:nextDialogue()
     self.dialogueNumber = self.dialogueNumber + 1
 
+    if self.lastSound then
+        self.lastSound:stop()
+        self.lastSound = nil
+    end
+
     if self.onLastDialogue then
         self:disappear()
         return
@@ -236,6 +241,7 @@ function Textbox:nextDialogue()
             local volume = CONFIG.defaultSFXVolume * SFX.maxVolume
             audio:setVolume(volume)
             audio:play()
+            self.lastSound = audio
         end
     end
 
