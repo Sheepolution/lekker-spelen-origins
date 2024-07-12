@@ -588,7 +588,11 @@ function PandaRoom:ddrOnDanceMove(player, direction)
         end
 
         self.ddrArrowEvent:stop()
-        self.arrowSprites(function(e) e.moveTween:stop() end)
+        self.arrowSprites(function(e)
+            if e.moveTween then
+                e.moveTween:stop()
+            end
+        end)
         self.arrowSprites:clear()
         self.danceDelays:stop()
         self.danceDelays:clear()
@@ -622,7 +626,11 @@ function PandaRoom:ddrOnDanceMove(player, direction)
             end
 
             self.ddrArrowEvent:stop()
-            self.arrowSprites(function(e) e.moveTween:stop() end)
+            self.arrowSprites(function(e)
+                if e.moveTween then
+                    e.moveTween:stop()
+                end
+            end)
             self.arrowSprites:clear()
             self.danceDelays:stop()
             self.danceDelays:clear()
@@ -905,7 +913,11 @@ function PandaRoom:danceOnDanceMove(player, direction)
         end
 
         self.ddrArrowEvent:stop()
-        self.arrowSprites(function(e) e.moveTween:stop() end)
+        self.arrowSprites(function(e)
+            if e.moveTween then
+                e.moveTween:stop()
+            end
+        end)
         self.arrowSprites:clear()
         self.danceDelays:stop()
         self.danceDelays:clear()
