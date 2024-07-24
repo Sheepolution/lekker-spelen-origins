@@ -208,9 +208,11 @@ end
 function Textbox:nextDialogue()
     self.dialogueNumber = self.dialogueNumber + 1
 
-    if self.lastSound then
-        self.lastSound:stop()
-        self.lastSound = nil
+    if Input:isDown("c1_back", "c2_back", "backspace") then
+        if self.lastSound then
+            self.lastSound:stop()
+            self.lastSound = nil
+        end
     end
 
     if self.onLastDialogue then

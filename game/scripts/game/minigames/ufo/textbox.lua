@@ -161,6 +161,13 @@ end
 function Textbox:nextDialogue()
     self.dialogueNumber = self.dialogueNumber + 1
 
+    if Input:isDown("c1_back", "c2_back", "backspace") then
+        if self.lastSound then
+            self.lastSound:stop()
+            self.lastSound = nil
+        end
+    end
+
     if self.onLastDialogue then
         self:disappear()
         return
@@ -181,6 +188,7 @@ function Textbox:nextDialogue()
             audio:setEffect("reverb")
             audio:setVolume(volume)
             audio:play()
+            self.lastSound = audio
         end
     end
 
